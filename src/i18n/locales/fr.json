@@ -1,0 +1,144 @@
+{
+  "header": {
+    "schoolName": "New World Technology",
+    "vocationTraining": "Formation Professionnelle",
+    "applyNow": "Postuler Maintenant"
+  },
+  "hero": {
+    "slides": [
+      {
+        "title": "Énergie Renouvelable",
+        "subtitle": "Alimenter l'Avenir avec des Solutions Durables",
+        "description": "Maîtrisez l'installation solaire, les systèmes éoliens et les solutions énergétiques durables"
+      },
+      {
+        "title": "Génie Électrique",
+        "subtitle": "Construire l'Infrastructure de Demain Aujourd'hui",
+        "description": "Apprenez la conception de circuits, les systèmes de câblage et les protocoles de sécurité électrique"
+      },
+      {
+        "title": "Systèmes CCTV et GPS",
+        "subtitle": "Sécuriser le Monde Connecté",
+        "description": "Formation experte en systèmes de sécurité et technologie de suivi de véhicules"
+      },
+      {
+        "title": "Audit Énergétique",
+        "subtitle": "Optimiser l'Efficacité, Réduire les Pertes",
+        "description": "Certification professionnelle en évaluation énergétique et conseil en efficacité"
+      }
+    ],
+    "enrollNow": "S'inscrire Maintenant",
+    "learnMore": "En Savoir Plus"
+  },
+  "programs": {
+    "renewableEnergyTitle": "Énergie Renouvelable",
+    "renewableEnergyDesc": "Maîtrisez les principes des systèmes d'énergie renouvelable incluant l'énergie solaire, éolienne et hydroélectrique. Apprenez l'installation, la maintenance et l'optimisation des solutions énergétiques renouvelables.",
+    "electricityTitle": "Électricité",
+    "electricityDesc": "Formation complète en systèmes électriques et distribution d'électricité. Développez des compétences en conception de circuits, dépannage et installations électriques sécurisées.",
+    "digitalMarketingTitle": "Marketing Numérique",
+    "digitalMarketingDesc": "Apprenez à construire et exécuter des stratégies de marketing numérique efficaces sur plusieurs plateformes. Maîtrisez le SEO, les réseaux sociaux, la création de contenu et l'analyse des données.",
+    "generalComputingTitle": "Informatique Générale",
+    "generalComputingDesc": "Développez des compétences informatiques fondamentales couvrant les systèmes d'exploitation, la mise en réseau, les bases de données et l'administration système. Préparez-vous pour une carrière en technologie.",
+    "graphicDesignTitle": "Design Graphique",
+    "graphicDesignDesc": "Créez un contenu visuel magnifique en utilisant des outils de conception standard de l'industrie. Apprenez les principes UI/UX, l'image de marque et les stratégies de communication visuelle.",
+    "surveillanceTitle": "Installation de Caméras de Surveillance et Suivi Automobil",
+    "surveillanceDesc": "Formation spécialisée en installation et surveillance de systèmes de sécurité. Apprenez la configuration CCTV, la technologie de suivi GPS et les solutions de surveillance modernes.",
+    "webDesignTitle": "Design Web",
+    "webDesignDesc": "Créez de beaux sites Web réactifs de toutes pièces. Maîtrisez HTML, CSS, JavaScript et les principes modernes du design Web pour le développement Web professionnel.",
+    "bilingualTrainingTitle": "Formation Bilingue",
+    "bilingualTrainingDesc": "Développez la fluidité en français et en anglais en mettant l'accent sur la communication commerciale. Améliorez vos compétences linguistiques pour de meilleures opportunités de carrière.",
+    "duration": "12 Mois",
+    "entryConditions": "Baccalauréat Niveau A",
+    "solarPanelInstallation": "Installation de Panneaux Solaires",
+    "windEneergySystems": "Systèmes d'Énergie Éolienne",
+    "energyManagement": "Gestion de l'Énergie",
+    "electricalWiring": "Câblage Électrique",
+    "powerDistribution": "Distribution d'Électricité",
+    "electricalSafety": "Sécurité Électrique",
+    "socialMediaMarketing": "Marketing sur les Réseaux Sociaux",
+    "seoSem": "SEO & SEM",
+    "contentStrategy": "Stratégie de Contenu",
+    "operatingSystems": "Systèmes d'Exploitation",
+    "networkAdministration": "Administration Réseaux",
+    "databaseManagement": "Gestion des Bases de Données",
+    "adobeCreativeSuite": "Suite Créative Adobe",
+    "uiuxDesign": "Design UI/UX",
+    "brandingLogoDesign": "Image de Marque et Design de Logo",
+    "cctvInstallation": "Installation CCTV",
+    "gpsTrackingSystems": "Systèmes de Suivi GPS",
+    "securityMonitoring": "Surveillance de Sécurité",
+    "htmlCss": "HTML & CSS",
+    "javascript": "JavaScript",
+    "responsiveDesign": "Design Responsive",
+    "frenchLanguage": "Langue Française",
+    "englishLanguage": "Langue Anglaise",
+    "businessCommunication": "Communication Commerciale"
+  },
+  "nav": {
+    "aboutUs": "À Propos",
+    "history": "Historique",
+    "missionVision": "Mission & Vision",
+    "leadership": "Leadership",
+    "academics": "Académique",
+    "resources": "Ressources",
+    "programs": "Programmes",
+    "admissions": "Admissions",
+    "contact": "Contact"
+  },
+  "home": {
+    "tagline": "Autonomiser la prochaine génération en Ingénierie! 💡 Formation pratique pour des carrières bien rémunérées en technologie, électricité et énergie solaire. Rejoignez-nous!",
+    "ourPrograms": "Nos Programmes",
+    "viewAllPrograms": "Voir Tous les Programmes"
+  },
+  "features": {
+    "certification": "Qualifications Reconnues par l'Industrie",
+    "practical": "100% Pratique",
+    "flexible": "Flexible et À Votre Rythme"
+  },
+  "programDetail": {
+    "back": "Retour",
+    "programDetails": "Détails du Programme",
+    "duration": "Durée:",
+    "entryRequirements": "Conditions d'Accès:",
+    "specialtiesCourses": "Spécialités & Cours",
+    "whyChoose": "Pourquoi Choisir Ce Programme?",
+    "whyChooseDesc": "Ce programme est conçu pour vous équiper de compétences pratiques et prêtes pour l'industrie. Nos instructeurs expérimentés offrent une formation pratique qui vous prépare aux défis du monde réel et à l'avancement professionnel.",
+    "enrollNow": "S'inscrire Maintenant",
+    "requestInfo": "Demander Plus d'Informations",
+    "notFound": "Programme non trouvé",
+    "goHome": "Retour à l'Accueil",
+    "overview": "Aperçu du Programme",
+    "curriculum": "Cursus Complet",
+    "curriculumDesc": "Apprenez des compétences pertinentes de l'industrie avec notre cursus soigneusement conçu.",
+    "instructors": "Instructeurs Experts",
+    "instructorsDesc": "Apprenez auprès de professionnels expérimentés ayant une expertise pratique.",
+    "career": "Soutien Professionnel",
+    "careerDesc": "Obtenez des conseils et un soutien pour lancer votre carrière après l'obtention du diplôme."
+  },
+  "footer": {
+    "aboutCompany": "Autonomiser la prochaine génération avec une formation professionnelle de pointe en énergie renouvelable, technologie et développement professionnel.",
+    "quickLinks": "Liens Rapides",
+    "aboutUsLink": "À Propos de Nous",
+    "academicPrograms": "Programmes Académiques",
+    "admissionsLink": "Admissions",
+    "studentResources": "Ressources pour Étudiants",
+    "contactUs": "Nous Contacter",
+    "ourPrograms": "Nos Programmes",
+    "renewableEnergy": "Énergie Renouvelable",
+    "solarInstallation": "Installation Solaire",
+    "energyAudit": "Audit Énergétique",
+    "energyStorage": "Solutions de Stockage d'Énergie",
+    "cctvSurveillance": "Vidéosurveillance et CCTV",
+    "gpsSystems": "Systèmes GPS",
+    "contactInfo": "Nous Contacter",
+    "location": "Yaoundé, Région du Centre, Cameroun",
+    "phone": "+237 654 43 87 43",
+    "email": "nwtvtinstitute@gmail.com",
+    "hours": "Lun - Ven: 8:00 AM - 17:00",
+    "copyright": "Institut de Formation Professionnelle New World Technology. Tous droits réservés.",
+    "privacyPolicy": "Politique de Confidentialité",
+    "termsOfService": "Conditions d'Utilisation",
+    "accreditation": "Accréditation",
+    "language": "Langue"
+  }
+}

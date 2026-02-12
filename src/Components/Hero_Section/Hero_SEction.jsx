@@ -1,35 +1,36 @@
 import React, { useState, useEffect } from 'react';
+import { useTranslation } from 'react-i18next';
 import './Hero_Section.css';
 
 const Hero_Section = () => {
+  const { t } = useTranslation();
   const [currentSlide, setCurrentSlide] = useState(0);
 
   const slides = [
     {
-      title: "Renewable Energy",
-      subtitle: "Power the Future with Sustainable Solutions",
+      title: t('hero.slides.0.title'),
+      subtitle: t('hero.slides.0.subtitle'),
       image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=1600&h=900&fit=crop",
-      description: "Master solar installation, wind energy systems, and sustainable power solutions"
+      description: t('hero.slides.0.description')
     },
     {
-      title: "Electrical Engineering",
-      subtitle: "Build Tomorrow's Infrastructure Today",
+      title: t('hero.slides.1.title'),
+      subtitle: t('hero.slides.1.subtitle'),
       image: "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=1600&h=900&fit=crop",
-      description: "Learn circuit design, wiring systems, and electrical safety protocols"
+      description: t('hero.slides.1.description')
     },
     {
-      title: "CCTV & GPS Systems",
-      subtitle: "Secure the Connected World",
+      title: t('hero.slides.2.title'),
+      subtitle: t('hero.slides.2.subtitle'),
       image: "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=1600&h=900&fit=crop",
-      description: "Expert training in security systems and vehicle tracking technology"
+      description: t('hero.slides.2.description')
     },
     {
-      title: "Energy Audit",
-      subtitle: "Optimize Efficiency, Reduce Waste",
+      title: t('hero.slides.3.title'),
+      subtitle: t('hero.slides.3.subtitle'),
       image: "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=1600&h=900&fit=crop",
-      description: "Professional certification in energy assessment and efficiency consulting"
+      description: t('hero.slides.3.description')
     },
-    
   ];
 
   useEffect(() => {
@@ -70,8 +71,8 @@ const Hero_Section = () => {
               <p className="hero-subtitle">{slide.subtitle}</p>
               <p className="hero-description">{slide.description}</p>
               <div className="hero-cta">
-                <button className="cta-primary">Enroll Now</button>
-                <button className="cta-secondary">Learn More</button>
+                <button className="cta-primary">{t('hero.enrollNow')}</button>
+                <button className="cta-secondary">{t('hero.learnMore')}</button>
               </div>
             </div>
           ))}

@@ -1,0 +1,144 @@
+{
+  "header": {
+    "schoolName": "New World Technology",
+    "vocationTraining": "Vocation Training",
+    "applyNow": "Apply Now"
+  },
+  "hero": {
+    "slides": [
+      {
+        "title": "Renewable Energy",
+        "subtitle": "Power the Future with Sustainable Solutions",
+        "description": "Master solar installation, wind energy systems, and sustainable power solutions"
+      },
+      {
+        "title": "Electrical Engineering",
+        "subtitle": "Build Tomorrow's Infrastructure Today",
+        "description": "Learn circuit design, wiring systems, and electrical safety protocols"
+      },
+      {
+        "title": "CCTV & GPS Systems",
+        "subtitle": "Secure the Connected World",
+        "description": "Expert training in security systems and vehicle tracking technology"
+      },
+      {
+        "title": "Energy Audit",
+        "subtitle": "Optimize Efficiency, Reduce Waste",
+        "description": "Professional certification in energy assessment and efficiency consulting"
+      }
+    ],
+    "enrollNow": "Enroll Now",
+    "learnMore": "Learn More"
+  },
+  "programs": {
+    "renewableEnergyTitle": "Renewable Energy",
+    "renewableEnergyDesc": "Master the principles of renewable energy systems including solar, wind, and hydroelectric power generation. Learn installation, maintenance, and optimization of renewable energy solutions.",
+    "electricityTitle": "Electricity",
+    "electricityDesc": "Comprehensive training in electrical systems and power distribution. Develop expertise in circuit design, troubleshooting, and safe electrical installations.",
+    "digitalMarketingTitle": "Digital Marketing",
+    "digitalMarketingDesc": "Learn to build and execute effective digital marketing strategies across multiple platforms. Master SEO, social media, content creation, and data analytics.",
+    "generalComputingTitle": "General Computing",
+    "generalComputingDesc": "Develop foundational IT skills covering operating systems, networking, databases, and system administration. Prepare for a career in technology.",
+    "graphicDesignTitle": "Graphic Design",
+    "graphicDesignDesc": "Create stunning visual content using industry-standard design tools. Learn UI/UX principles, branding, and visual communication strategies.",
+    "surveillanceTitle": "Surveillance Camera Installation and Automobile Tracking",
+    "surveillanceDesc": "Specialized training in security systems installation and monitoring. Learn CCTV setup, GPS tracking technology, and modern surveillance solutions.",
+    "webDesignTitle": "Web Design",
+    "webDesignDesc": "Build beautiful and responsive websites from scratch. Master HTML, CSS, JavaScript, and modern web design principles for professional web development.",
+    "bilingualTrainingTitle": "Bilingual Training",
+    "bilingualTrainingDesc": "Develop fluency in French and English with a focus on business communication. Enhance your language skills for better career opportunities.",
+    "duration": "12 Months",
+    "entryConditions": "Baccalaureate A Level",
+    "solarPanelInstallation": "Solar Panel Installation",
+    "windEneergySystems": "Wind Energy Systems",
+    "energyManagement": "Energy Management",
+    "electricalWiring": "Electrical Wiring",
+    "powerDistribution": "Power Distribution",
+    "electricalSafety": "Electrical Safety",
+    "socialMediaMarketing": "Social Media Marketing",
+    "seoSem": "SEO & SEM",
+    "contentStrategy": "Content Strategy",
+    "operatingSystems": "Operating Systems",
+    "networkAdministration": "Network Administration",
+    "databaseManagement": "Database Management",
+    "adobeCreativeSuite": "Adobe Creative Suite",
+    "uiuxDesign": "UI/UX Design",
+    "brandingLogoDesign": "Branding & Logo Design",
+    "cctvInstallation": "CCTV Installation",
+    "gpsTrackingSystems": "GPS Tracking Systems",
+    "securityMonitoring": "Security Monitoring",
+    "htmlCss": "HTML & CSS",
+    "javascript": "JavaScript",
+    "responsiveDesign": "Responsive Design",
+    "frenchLanguage": "French Language",
+    "englishLanguage": "English Language",
+    "businessCommunication": "Business Communication"
+  },
+  "nav": {
+    "aboutUs": "About Us",
+    "history": "History",
+    "missionVision": "Mission & Vision",
+    "leadership": "Leadership",
+    "academics": "Academics",
+    "resources": "Resources",
+    "programs": "Programs",
+    "admissions": "Admissions",
+    "contact": "Contact"
+  },
+  "home": {
+    "tagline": "Empowering the next gen in Engineering! 💡 Hands-on training for high-paying careers in tech, electrical & solar. Join us!",
+    "ourPrograms": "Our Programs",
+    "viewAllPrograms": "View All Programs"
+  },
+  "features": {
+    "certification": "Industry-Recognised Qualifications",
+    "practical": "100% Practical",
+    "flexible": "Self-Paced and Flexible"
+  },
+  "programDetail": {
+    "back": "Back",
+    "programDetails": "Program Details",
+    "duration": "Duration:",
+    "entryRequirements": "Entry Requirements:",
+    "specialtiesCourses": "Specialties & Courses",
+    "whyChoose": "Why Choose This Program?",
+    "whyChooseDesc": "This program is designed to equip you with practical, industry-ready skills. Our experienced instructors provide hands-on training that prepares you for real-world challenges and career advancement.",
+    "enrollNow": "Enroll Now",
+    "requestInfo": "Request More Information",
+    "notFound": "Program not found",
+    "goHome": "Go Back to Home",
+    "overview": "Program Overview",
+    "curriculum": "Comprehensive Curriculum",
+    "curriculumDesc": "Learn industry-relevant skills with our carefully designed curriculum.",
+    "instructors": "Expert Instructors",
+    "instructorsDesc": "Learn from experienced professionals with real-world expertise.",
+    "career": "Career Support",
+    "careerDesc": "Get guidance and support in launching your career after graduation."
+  },
+  "footer": {
+    "aboutCompany": "Empowering the next generation with cutting-edge vocational training in renewable energy, technology, and professional development.",
+    "quickLinks": "Quick Links",
+    "aboutUsLink": "About Us",
+    "academicPrograms": "Academic Programs",
+    "admissionsLink": "Admissions",
+    "studentResources": "Student Resources",
+    "contactUs": "Contact Us",
+    "ourPrograms": "Our Programs",
+    "renewableEnergy": "Renewable Energy",
+    "solarInstallation": "Solar Installation",
+    "energyAudit": "Energy Audit",
+    "energyStorage": "Energy Storage Solutions",
+    "cctvSurveillance": "CCTV & Surveillance",
+    "gpsSystems": "GPS Systems",
+    "contactInfo": "Contact Us",
+    "location": "Yaoundé, Centre Region, Cameroon",
+    "phone": "+237 654 43 87 43",
+    "email": "nwtvtinstitute@gmail.com",
+    "hours": "Mon - Fri: 8:00 AM - 5:00 PM",
+    "copyright": "New World Technology Vocational Training Institute. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "accreditation": "Accreditation",
+    "language": "Language"
+  }
+}

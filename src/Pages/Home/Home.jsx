@@ -1,41 +1,45 @@
 import React from 'react'
+import { useTranslation } from 'react-i18next'
 import './Home.css'
 import Hero_Section from '../../Components/Hero_Section/Hero_SEction'
 import Features_Section from '../../Components/Features_Section/Features_Section'
-import { programsData } from '../../data/programsData'
+import { getProgramsData } from '../../data/programsData'
 
 const Home = () => {
+  const { t } = useTranslation()
+  const programsData = getProgramsData(t)
+
   return (
     <div className="home-page">
       <Hero_Section />
       <Features_Section />
-      
+
       <div className="programs-secti">
-        <span>Empowering the next gen in Engineering! 💡 Hands-on training for high-paying careers in tech, electrical & solar. Join us!</span>
+        <span>{t('home.tagline')}</span>
 
         <div className="progs">
-          <p>Our Programs</p>
+          <p>{t('home.ourPrograms')}</p>
         </div>
 
         <div className="programs-grid">
           {programsData.slice(0,3).map((program) => (
             <div key={program.id} className="program-card">
-              <div 
+              <div
                 className="program-card-image"
                 style={{ backgroundImage: `url(${program.image})` }}
               />
-              <div className="program-card-header">{program.category}</div>
+              <div className="program-card-header">{program.name}</div>
               <div className="program-card-courses">
                 <ul>
-                  {program.courses.map((course, index) => (
-                    <li key={index}>{course}</li>
+                  {program.specialties.map((specialty, index) => (
+                    <li key={index}>{specialty.name}</li>
                   ))}
                 </ul>
               </div>
             </div>
           ))}
         </div>
-        <button className="view-all-btn">View All Programs</button>
+        <button className="view-all-btn">{t('home.viewAllPrograms')}</button>
       </div>
     </div>
   )

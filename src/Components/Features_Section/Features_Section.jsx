@@ -1,7 +1,10 @@
 import React from 'react';
+import { useTranslation } from 'react-i18next';
 import './Features_Section.css';
 
 const Features_Section = () => {
+  const { t } = useTranslation();
+
   // SVG Icons
   const CertificationIcon = () => (
     <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -39,16 +42,16 @@ const Features_Section = () => {
   const features = [
     {
       icon: <CertificationIcon />,
-      title: "Industry-Recognised Qualifications",
+      title: t('features.certification'),
     },
     {
       icon: <PracticalIcon />,
-      title: "100% Practical",
+      title: t('features.practical'),
     },
     {
       icon: <FlexibleIcon />,
-      title: "Self-Paced and Flexible",
-    },
+      title: t('features.flexible'),
+    }
   ];
 
   return (

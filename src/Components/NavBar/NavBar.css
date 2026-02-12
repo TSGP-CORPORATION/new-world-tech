@@ -9,6 +9,21 @@
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
+.nav-logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem 1rem;
+  border-right: 2px solid #ffffff;
+  background: linear-gradient(to right, #ffffff, #ffffff);
+}
+
+.nav-logo {
+  height: 50px;
+  width: auto;
+  object-fit: contain;
+}
+
 .nav-content-container {
   flex: 1;
   display: flex;

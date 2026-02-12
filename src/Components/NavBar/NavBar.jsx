@@ -1,14 +1,29 @@
 
 /**@author Oliver */
-import React from 'react'
+import React, { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
+import { motion } from 'framer-motion'
 import './NavBar.css'
 import { getProgramsData } from '../../data/programsData'
 
 const NavBar = () => {
   const { t } = useTranslation()
   const programsData = getProgramsData(t)
+  const [isHeaderVisible, setIsHeaderVisible] = useState(true)
+
+  useEffect(() => {
+    const handleScroll = () => {
+      const headerElement = document.querySelector('.header')
+      if (headerElement) {
+        const headerRect = headerElement.getBoundingClientRect()
+        setIsHeaderVisible(headerRect.bottom > 0)
+      }
+    }
+
+    window.addEventListener('scroll', handleScroll)
+    return () => window.removeEventListener('scroll', handleScroll)
+  }, [])
 
   const navItems = [
     {
@@ -46,6 +61,23 @@ const NavBar = () => {
 
   return (
     <div className="nav-bar">
+      <motion.div
+        className="nav-logo-container"
+        initial={{ opacity: 0, width: 0 }}
+        animate={{
+          opacity: !isHeaderVisible ? 1 : 0,
+          width: !isHeaderVisible ? 'auto' : 0,
+        }}
+        transition={{ duration: 0.4, ease: 'easeInOut' }}
+        style={{ overflow: 'hidden' }}
+      >
+        <img 
+          src="/src/assets/1b1c7c53-ff2a-478f-8220-1a7e4ec1725a.png" 
+          alt="School Logo" 
+          className="nav-logo"
+        />
+      </motion.div>
+
       {navItems.map((item) => (
         <div key={item.id} className="nav-content-container">
           {item.submenu.length > 0 ? (

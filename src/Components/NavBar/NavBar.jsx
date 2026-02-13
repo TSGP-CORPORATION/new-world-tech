@@ -74,7 +74,7 @@ const NavBar = () => {
         style={{ overflow: 'hidden' }}
       >
         <img onClick={()=>navigate('/')} 
-          src="/public/1b1c7c53-ff2a-478f-8220-1a7e4ec1725a.png" 
+          src="/logo.png" 
           alt="School Logo" 
           className="nav-logo"
         />

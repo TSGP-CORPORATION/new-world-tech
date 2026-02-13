@@ -15,7 +15,7 @@ const Footer = () => {
         {/* Logo and About Section */}
         <div className="footer-column footer-logo-section">
           <div className="footer-logo">
-            <img src="/public/1b1c7c53-ff2a-478f-8220-1a7e4ec1725a.png" alt="School Logo" className="footer-logo-image" />
+            <img src="/logo.png" alt="School Logo" className="footer-logo-image" />
             <div className="logo-text">
               <h2>NEW WORLD TECH</h2>
               <p>VOCATIONAL TRAINING</p>

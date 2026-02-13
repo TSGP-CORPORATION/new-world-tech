@@ -15,11 +15,7 @@ const Footer = () => {
         {/* Logo and About Section */}
         <div className="footer-column footer-logo-section">
           <div className="footer-logo">
-            <div className="logo-circle">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                <path d="M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5zm0 18c-4.52 0-8-3.48-8-8V8.46l8-4.44 8 4.44V12c0 4.52-3.48 8-8 8zm-1-6h2v2h-2v-2zm0-8h2v6h-2V6z"/>
-              </svg>
-            </div>
+            <img src="/src/assets/1b1c7c53-ff2a-478f-8220-1a7e4ec1725a.png" alt="School Logo" className="footer-logo-image" />
             <div className="logo-text">
               <h2>NEW WORLD TECH</h2>
               <p>VOCATIONAL TRAINING</p>

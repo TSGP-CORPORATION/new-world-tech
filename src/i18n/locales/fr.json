@@ -1,7 +1,6 @@
 {
   "header": {
-    "schoolName": "New World Technology",
-    "vocationTraining": "Formation Professionnelle",
+    "schoolName": "New World Technology Formation Professionnelle",
     "applyNow": "Postuler Maintenant"
   },
   "hero": {
@@ -31,6 +30,14 @@
     "learnMore": "En Savoir Plus"
   },
   "programs": {
+    "pageTitle": "Nos Programmes",
+    "pageSubtitle": "Formation Professionnelle Spécialisée pour Votre Avenir",
+    "practicalExcellence": "Excellence Pratique",
+    "industryFocused": "Formation Axée sur l'Industrie",
+    "specialty": "Spécialité",
+    "specialties": "Spécialités",
+    "onCampus": "Sur le Campus",
+    "seeDetails": "Voir Tous les Détails du Programme →",
     "renewableEnergyTitle": "Énergie Renouvelable",
     "renewableEnergyDesc": "Maîtrisez les principes des systèmes d'énergie renouvelable incluant l'énergie solaire, éolienne et hydroélectrique. Apprenez l'installation, la maintenance et l'optimisation des solutions énergétiques renouvelables.",
     "electricityTitle": "Électricité",
@@ -132,7 +139,7 @@
     "gpsSystems": "Systèmes GPS",
     "contactInfo": "Nous Contacter",
     "location": "Yaoundé, Région du Centre, Cameroun",
-    "phone": "+237 654 43 87 43",
+    "phone": "+237 678 58 78 61 ,  +237 640 91 96 99",
     "email": "nwtvtinstitute@gmail.com",
     "hours": "Lun - Ven: 8:00 AM - 17:00",
     "copyright": "Institut de Formation Professionnelle New World Technology. Tous droits réservés.",

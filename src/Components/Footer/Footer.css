@@ -119,11 +119,14 @@
   align-items: center;
   gap: 1rem;
   margin-bottom: 0.5rem;
+  background-color: #ffffff;
+  padding: 1rem;
+  border-radius: 8px;
 }
 
 .logo-circle {
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
   border-radius: 50%;
   background: linear-gradient(135deg, #52b788, #2d6a4f);
   display: flex;
@@ -133,9 +136,15 @@
 }
 
 .logo-circle svg {
-  width: 35px;
-  height: 35px;
+  width: 45px;
+  height: 45px;
   fill: white;
+}
+
+.footer-logo-image {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
 }
 
 .logo-text h2 {
@@ -143,7 +152,7 @@
   font-size: 1.3rem;
   font-weight: 700;
   margin: 0;
-  color: #ffffff;
+  color: #95d5b2;
   text-transform: uppercase;
   letter-spacing: 0.5px;
 }

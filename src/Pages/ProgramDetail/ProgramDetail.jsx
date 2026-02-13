@@ -55,9 +55,7 @@ const ProgramDetail = () => {
         className="program-detail-hero"
         style={{ backgroundImage: `url(${program.image})` }}
       >
-        <button className="back-btn-hero" onClick={() => navigate('/')}>
-          ← {t('programDetail.back')}
-        </button>
+        
         <div className="hero-overlay">
           <div className="hero-content">
             

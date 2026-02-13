@@ -15,6 +15,7 @@
   align-items: center;
   gap: 2rem;
   flex: 1;
+  cursor: pointer;
 }
 
 .image-and-abbrev {
@@ -45,19 +46,23 @@
 }
 
 .header-left h1 {
+  font-family: 'Futura', 'Avant Garde Gothic', 'Century Gothic', 'Arial Black', sans-serif;
   font-size: 2rem;
   font-weight: 700;
   color: #1a1a1a;
   margin: 0;
   line-height: 1.2;
   letter-spacing: -0.5px;
+  white-space: nowrap;
+  text-transform: uppercase;
 }
 
 .header-left p {
-  font-size: 1rem;
+  font-size: 2rem;
   color: #666666;
   margin: 0.5rem 0 0 0;
-  font-weight: 500;
+  font-weight: 700;
+  white-space: nowrap;
 }
 
 .middle-header {

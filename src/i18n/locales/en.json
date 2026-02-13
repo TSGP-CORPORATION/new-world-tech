@@ -1,7 +1,6 @@
 {
   "header": {
-    "schoolName": "New World Technology",
-    "vocationTraining": "Vocation Training",
+    "schoolName": "New World Technology Vocation Training",
     "applyNow": "Apply Now"
   },
   "hero": {
@@ -31,6 +30,14 @@
     "learnMore": "Learn More"
   },
   "programs": {
+    "pageTitle": "Our Programs",
+    "pageSubtitle": "Specialized Vocational Training for Your Future",
+    "practicalExcellence": "Practical Excellence",
+    "industryFocused": "Industry-Focused Training",
+    "specialty": "Specialty",
+    "specialties": "Specialties",
+    "onCampus": "On Campus",
+    "seeDetails": "See All Programs Details →",
     "renewableEnergyTitle": "Renewable Energy",
     "renewableEnergyDesc": "Master the principles of renewable energy systems including solar, wind, and hydroelectric power generation. Learn installation, maintenance, and optimization of renewable energy solutions.",
     "electricityTitle": "Electricity",
@@ -95,6 +102,7 @@
     "practical": "100% Practical",
     "flexible": "Self-Paced and Flexible"
   },
+  
   "programDetail": {
     "back": "Back",
     "programDetails": "Program Details",
@@ -132,7 +140,7 @@
     "gpsSystems": "GPS Systems",
     "contactInfo": "Contact Us",
     "location": "Yaoundé, Centre Region, Cameroon",
-    "phone": "+237 654 43 87 43",
+    "phone": "+237 678 58 78 61 ,  +237 640 91 96 99",
     "email": "nwtvtinstitute@gmail.com",
     "hours": "Mon - Fri: 8:00 AM - 5:00 PM",
     "copyright": "New World Technology Vocational Training Institute. All rights reserved.",

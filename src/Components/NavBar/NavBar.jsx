@@ -4,11 +4,13 @@ import React, { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import { motion } from 'framer-motion'
+import { useNavigate } from 'react-router-dom'
 import './NavBar.css'
 import { getProgramsData } from '../../data/programsData'
 
 const NavBar = () => {
   const { t } = useTranslation()
+  const navigate = useNavigate()
   const programsData = getProgramsData(t)
   const [isHeaderVisible, setIsHeaderVisible] = useState(true)
 
@@ -71,7 +73,7 @@ const NavBar = () => {
         transition={{ duration: 0.4, ease: 'easeInOut' }}
         style={{ overflow: 'hidden' }}
       >
-        <img 
+        <img onClick={()=>navigate('/')} 
           src="/src/assets/1b1c7c53-ff2a-478f-8220-1a7e4ec1725a.png" 
           alt="School Logo" 
           className="nav-logo"

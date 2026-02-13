@@ -4,9 +4,11 @@ import './Home.css'
 import Hero_Section from '../../Components/Hero_Section/Hero_SEction'
 import Features_Section from '../../Components/Features_Section/Features_Section'
 import { getProgramsData } from '../../data/programsData'
+import { useNavigate } from 'react-router-dom'
 
 const Home = () => {
   const { t } = useTranslation()
+  const navigate = useNavigate()
   const programsData = getProgramsData(t)
 
   return (
@@ -39,7 +41,7 @@ const Home = () => {
             </div>
           ))}
         </div>
-        <button className="view-all-btn">{t('home.viewAllPrograms')}</button>
+        <button onClick={() => navigate('/programs')} className="view-all-btn">{t('home.viewAllPrograms')}</button>
       </div>
     </div>
   )

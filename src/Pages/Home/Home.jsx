@@ -25,13 +25,13 @@ const Home = () => {
 
         <div className="programs-grid">
           {programsData.slice(0,3).map((program) => (
-            <div key={program.id} className="program-card">
+            <div key={program.id} className="home-program-card">
               <div
-                className="program-card-image"
+                className="home-program-card-image"
                 style={{ backgroundImage: `url(${program.image})` }}
               />
-              <div className="program-card-header">{program.name}</div>
-              <div className="program-card-courses">
+              <div className="home-program-card-header">{program.name}</div>
+              <div className="home-program-card-courses">
                 <ul>
                   {program.specialties.map((specialty, index) => (
                     <li key={index}>{specialty.name}</li>

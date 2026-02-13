@@ -72,7 +72,7 @@
   padding: 0 2rem;
 }
 
-.program-card {
+.home-program-card {
   background-color: var(--school-white);
   overflow: hidden;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -80,12 +80,12 @@
   cursor: pointer;
 }
 
-.program-card:hover {
+.home-program-card:hover {
   transform: translateY(-5px);
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
 }
 
-.program-card-image {
+.home-program-card-image {
   width: 100%;
   height: 250px;
   background-size: cover;
@@ -93,7 +93,7 @@
   position: relative;
 }
 
-.program-card-image::after {
+.home-program-card-image::after {
   content: "";
   position: absolute;
   top: 0;
@@ -103,7 +103,7 @@
   
 }
 
-.program-card-header {
+.home-program-card-header {
   background-color: var(--school-light-blue);
   color: var(--school-white);
   padding: 1rem 1.5rem;
@@ -114,17 +114,17 @@
   border-top: 4px solid var(--school-teal);
 }
 
-.program-card-courses {
+.home-program-card-courses {
   padding: 1.5rem;
 }
 
-.program-card-courses ul {
+.home-program-card-courses ul {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-.program-card-courses li {
+.home-program-card-courses li {
   padding: 0.6rem 0;
   color: var(--school-dark);
   font-size: 0.95rem;
@@ -133,11 +133,11 @@
   align-items: center;
 }
 
-.program-card-courses li:last-child {
+.home-program-card-courses li:last-child {
   border-bottom: none;
 }
 
-.program-card-courses li::before {
+.home-program-card-courses li::before {
   content: "→";
   color: var(--school-teal);
   font-weight: 700;
@@ -218,20 +218,20 @@
     padding: 0.9rem 1.5rem;
   }
 
-  .program-card-image {
+  .home-program-card-image {
     height: 200px;
   }
 
-  .program-card-header {
+  .home-program-card-header {
     font-size: 1rem;
     padding: 0.9rem 1.2rem;
   }
 
-  .program-card-courses {
+  .home-program-card-courses {
     padding: 1.2rem;
   }
 
-  .program-card-courses li {
+  .home-program-card-courses li {
     font-size: 0.9rem;
     padding: 0.5rem 0;
   }
@@ -261,20 +261,20 @@
     padding: 0.75rem 1rem;
   }
 
-  .program-card-image {
+  .home-program-card-image {
     height: 180px;
   }
 
-  .program-card-header {
+  .home-program-card-header {
     font-size: 0.9rem;
     padding: 0.75rem 1rem;
   }
 
-  .program-card-courses {
+  .home-program-card-courses {
     padding: 1rem;
   }
 
-  .program-card-courses li {
+  .home-program-card-courses li {
     font-size: 0.85rem;
     padding: 0.4rem 0;
   }

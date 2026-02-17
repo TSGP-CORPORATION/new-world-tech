@@ -9,39 +9,26 @@ const Programs = () => {
   const navigate = useNavigate()
   const programsData = getProgramsData(t)
 
-  // Fallback image if program.image is missing or fails to load
-  const fallbackImage = "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&h=600&fit=crop"
-
-  const handleImageError = (e) => {
-    console.error('Image failed to load:', e.target.src)
-    e.target.src = fallbackImage
-  }
 
   return (
     <div className="programs-page">
-      {/* Hero Section */}
-      <div className="programs-hero">
-        <img
-          src="https://images.unsplash.com/photo-1509391366360-2e959784a276?w=1600&h=900&fit=crop"
-          alt="Programs Hero"
-          className="hero-image"
-        />
-        <div className="hero-overlay"></div>
-        <div className="hero-content">
-          <h1>{t('programs.pageTitle')}</h1>
-          <p>{t('programs.pageSubtitle')}</p>
+      <div
+        className="programs-hero"
+        style={{ backgroundImage: `url(https://images.unsplash.com/photo-1509391366360-2e959784a276?w=1600&h=900&fit=crop)` }}
+      >
+        <div className="hero-overlay">
+          <div className="hero-content">
+            <h1>{t('programs.pageTitle')}</h1>
+            <p>{t('programs.pageSubtitle')}</p>
+          </div>
         </div>
       </div>
 
-      {/* Programs Container */}
       <div className="programs-container">
-        {/* Real-World Learning Section */}
         <div className="real-world-section">
           <span className="real-world-label">{t('programs.practicalExcellence')}</span>
           <h2>{t('programs.industryFocused')}</h2>
         </div>
-
-        {/* Programs Grid */}
         <div className="programs-grid">
           {programsData.map((program) => (
             <div
@@ -52,10 +39,9 @@ const Programs = () => {
             >
               <div className="program-image-container">
                 <img
-                  src={program.image || fallbackImage}
+                  src={program.image}
                   alt={program.name}
                   className="program-image"
-                  onError={handleImageError}
                   loading="lazy"
                 />
               </div>

@@ -1,4 +1,3 @@
-/* School Colors */
 :root {
   --school-blue: #1e3a8a;
   --school-teal: #0d9488;
@@ -13,8 +12,6 @@
   display: flex;
   flex-direction: column;
 }
-
-/* Programs Section */
 .programs-secti {
   width: 100%;
   background-color: var(--school-gray);
@@ -42,7 +39,6 @@
   margin-bottom: 2rem;
 }
 
-/* Our Programs Header */
 .progs {
   width: 100%;
   max-width: 1400px;
@@ -60,8 +56,6 @@
   border-radius: 4px;
   letter-spacing: 0.5px;
 }
-
-/* Programs Grid */
 .programs-grid {
   width: 100%;
   max-width: 1400px;
@@ -144,8 +138,6 @@
   margin-right: 0.75rem;
   font-size: 1.1rem;
 }
-
-/* View All Programs Button */
 .view-all-btn {
   background-color: var(--school-teal);
   color: var(--school-white);

@@ -1,17 +1,8 @@
-/* ===========================
-   History Page Styles
-   Matching NWTVT site palette
-   =========================== */
-
 .history-page {
   width: 100%;
   display: flex;
   flex-direction: column;
 }
-
-/* ===========================
-   Hero Section
-   =========================== */
 .history-hero {
   position: relative;
   width: 100%;
@@ -86,10 +77,6 @@
   font-weight: 400;
   line-height: 1.6;
 }
-
-/* ===========================
-   Intro Section
-   =========================== */
 .history-intro-section {
   background-color: #f8f8f6;
   border-bottom: 3px solid #52b788;
@@ -110,10 +97,6 @@
   border-left: 4px solid #52b788;
   padding-left: 1.5rem;
 }
-
-/* ===========================
-   Timeline Section
-   =========================== */
 .history-timeline-section {
   background-color: #ffffff;
   padding: 4rem 2rem 5rem;
@@ -148,10 +131,6 @@
   margin: 0;
   letter-spacing: -0.5px;
 }
-
-/* ===========================
-   Timeline Items
-   =========================== */
 .history-timeline {
   max-width: 860px;
   margin: 0 auto;
@@ -187,7 +166,6 @@
 .timeline-item:nth-child(9) { transition-delay: 0.56s; }
 .timeline-item:nth-child(10) { transition-delay: 0.63s; }
 
-/* Year */
 .timeline-year {
   display: flex;
   align-items: flex-start;
@@ -204,8 +182,6 @@
   line-height: 1;
   letter-spacing: -2px;
 }
-
-/* Connector */
 .timeline-connector {
   display: flex;
   flex-direction: column;
@@ -241,8 +217,6 @@
 .timeline-item:last-child .timeline-line {
   display: none;
 }
-
-/* Content */
 .timeline-content {
   padding: 0 0 2.5rem 1.5rem;
 }
@@ -262,10 +236,6 @@
   line-height: 1.7;
   margin: 0;
 }
-
-/* ===========================
-   Legacy Banner
-   =========================== */
 .history-legacy-section {
   background: linear-gradient(135deg, #0d2818 0%, #1a4a2e 50%, #2d6a4f 100%);
   padding: 4.5rem 2rem;
@@ -293,9 +263,6 @@
   margin: 0;
 }
 
-/* ===========================
-   Responsive
-   =========================== */
 @media (max-width: 768px) {
   .history-hero {
     height: 380px;

@@ -1,50 +1,44 @@
-/* Programs Page Styles */
 .programs-page {
   width: 100%;
   display: flex;
   flex-direction: column;
 }
-
-/* Hero Section */
 .programs-hero {
   position: relative;
   width: 100%;
   height: 500px;
-  overflow: hidden;
+  background-size: cover;
+  background-position: center;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: flex-end;
+  justify-content: flex-start;
+  overflow: hidden;
 }
 
-.programs-hero .hero-image {
+.programs-hero::before {
+  content: '';
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  z-index: 1;
-  display: block;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.3) 60%, rgba(0, 0, 0, 0.1) 100%);
 }
 
 .programs-hero .hero-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(135deg, rgba(13, 40, 24, 0.3), rgba(45, 106, 79, 0.2));
+  position: relative;
   z-index: 2;
+  width: 100%;
+  padding: 0 40px 50px;
 }
 
 .programs-hero .hero-content {
-  position: relative;
-  z-index: 3;
-  text-align: center;
-  color: #ffffff;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 0.5rem;
 }
 
 .programs-hero h1 {
@@ -53,24 +47,21 @@
   font-weight: 700;
   margin: 0;
   letter-spacing: -1px;
+  color: #ffffff;
 }
 
 .programs-hero p {
   font-size: 1.3rem;
   margin: 0;
   font-weight: 500;
-  opacity: 0.95;
+  color: rgba(255, 255, 255, 0.9);
 }
-
-/* Programs Container */
 .programs-container {
   max-width: 1200px;
   margin: 0 auto;
   padding: 4rem 2rem;
   width: 100%;
 }
-
-/* Real-World Learning Section */
 .real-world-section {
   margin-bottom: 3rem;
   display: flex;
@@ -99,16 +90,12 @@
   margin: 0;
   letter-spacing: -0.5px;
 }
-
-/* Programs Grid */
 .programs-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 2rem;
   margin-top: 2rem;
 }
-
-/* Program Card */
 .program-card {
   position: relative;
   border-radius: 0;
@@ -124,10 +111,8 @@
   transform: translateY(-4px);
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
-
-/* Hover overlay */
 .program-card::before {
-  content: 'See All Programs Details →';
+  content: 'Learn More';
   position: absolute;
   top: 0;
   left: 0;
@@ -170,10 +155,7 @@
 .program-card:hover .program-image {
   transform: scale(1.05);
 }
-
-/* Dark gradient overlay */
 .program-image-container::after {
-  content: '';
   position: absolute;
   top: 0;
   left: 0;
@@ -182,8 +164,6 @@
   background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.4) 50%, rgba(0, 0, 0, 0) 100%);
   pointer-events: none;
 }
-
-/* Program Card Content - Overlaid at bottom */
 .program-card-content {
   position: absolute;
   bottom: 0;
@@ -204,8 +184,6 @@
   margin: 0;
   line-height: 1.2;
 }
-
-/* Program Info */
 .program-info {
   display: flex;
   flex-direction: column;
@@ -232,13 +210,9 @@
   content: '';
   display: none;
 }
-
-/* Remove button styles - not needed */
 .program-learn-btn {
   display: none;
 }
-
-/* Responsive Design */
 @media (max-width: 768px) {
   .programs-hero {
     height: 350px;
@@ -250,6 +224,10 @@
 
   .programs-hero p {
     font-size: 1.1rem;
+  }
+
+  .programs-hero .hero-overlay {
+    padding: 0 20px 35px;
   }
 
   .programs-container {
@@ -289,6 +267,10 @@
 
   .programs-hero p {
     font-size: 1rem;
+  }
+
+  .programs-hero .hero-overlay {
+    padding: 0 15px 25px;
   }
 
   .programs-grid {

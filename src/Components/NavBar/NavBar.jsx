@@ -52,13 +52,7 @@ const NavBar = () => {
       label: t('nav.admissions'),
       route: '/admissions',
       submenu: []
-    },
-    {
-      id: 5,
-      label: t('nav.contact'),
-      route: '/contact',
-      submenu: []
-    },
+    }
   ]
 
   return (

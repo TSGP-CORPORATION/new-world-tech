@@ -7,6 +7,7 @@ import Home from './Pages/Home/Home'
 import Programs from './Pages/Programs/Programs'
 import ProgramDetail from './Pages/ProgramDetail/ProgramDetail'
 import Footer from './Components/Footer/Footer'
+import History from './Pages/About/History/History'
 
 const App = () => {
 
@@ -19,6 +20,7 @@ const App = () => {
         <Route path='/' element={<Home/>}/>
         <Route path='/programs' element={<Programs/>}/>
         <Route path='/program/:id' element={<ProgramDetail/>}/>
+        <Route path='/about/history' element={<History/>}/>
       </Routes>
       
 

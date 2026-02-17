@@ -48,7 +48,7 @@
     "generalComputingDesc": "Développez des compétences informatiques fondamentales couvrant les systèmes d'exploitation, la mise en réseau, les bases de données et l'administration système. Préparez-vous pour une carrière en technologie.",
     "graphicDesignTitle": "Design Graphique",
     "graphicDesignDesc": "Créez un contenu visuel magnifique en utilisant des outils de conception standard de l'industrie. Apprenez les principes UI/UX, l'image de marque et les stratégies de communication visuelle.",
-    "surveillanceTitle": "Installation de Caméras de Surveillance et Suivi Automobil",
+    "surveillanceTitle": "Installation de Caméras de Surveillance et Suivi Automobile",
     "surveillanceDesc": "Formation spécialisée en installation et surveillance de systèmes de sécurité. Apprenez la configuration CCTV, la technologie de suivi GPS et les solutions de surveillance modernes.",
     "webDesignTitle": "Design Web",
     "webDesignDesc": "Créez de beaux sites Web réactifs de toutes pièces. Maîtrisez HTML, CSS, JavaScript et les principes modernes du design Web pour le développement Web professionnel.",
@@ -101,6 +101,58 @@
     "certification": "Qualifications Reconnues par l'Industrie",
     "practical": "100% Pratique",
     "flexible": "Flexible et À Votre Rythme"
+  },
+  "history": {
+    "heroLabel": "Notre Parcours",
+    "heroTitle": "Historique",
+    "heroSubtitle": "Un héritage d'excellence en formation professionnelle — dotant les générations de compétences pratiques pour un monde en mutation.",
+    "introText": "L'Institut de Formation Professionnelle New World Technology a construit une fière tradition d'excellence depuis sa fondation. Nous avons continuellement évolué pour répondre aux exigences de l'industrie, formant des diplômés qualifiés qui stimulent l'innovation et le développement à travers le Cameroun et au-delà.",
+    "keyDatesLabel": "Jalons",
+    "keyDatesTitle": "Dates Clés",
+    "legacyTitle": "Construire l'Avenir, un Diplômé à la Fois",
+    "legacyText": "De notre première cohorte d'étudiants à notre réseau d'anciens en pleine croissance, chaque étape reflète notre engagement indéfectible envers une éducation pratique et prête pour l'industrie qui transforme des vies et des communautés.",
+    "milestones": [
+      {
+        "year": "2010",
+        "title": "Fondation de l'Institut",
+        "description": "L'Institut de Formation Professionnelle New World Technology a été créé à Yaoundé, au Cameroun, avec la mission de fournir une éducation professionnelle pratique et de haute qualité à la prochaine génération."
+      },
+      {
+        "year": "2012",
+        "title": "Premiers Diplômés",
+        "description": "L'institut a célébré sa première promotion de diplômés, avec des étudiants entrant dans le monde du travail dans les secteurs du génie électrique, de l'informatique et des énergies renouvelables."
+      },
+      {
+        "year": "2014",
+        "title": "Lancement du Programme Énergie Renouvelable",
+        "description": "En réponse à la demande croissante de professionnels de l'énergie verte, le NWTVT a lancé son programme phare en Énergie Renouvelable, couvrant le solaire, l'éolien et la gestion de l'énergie."
+      },
+      {
+        "year": "2016",
+        "title": "Expansion Technologie Numérique",
+        "description": "De nouveaux programmes en Informatique Générale, Design Graphique et Design Web ont été introduits, positionnant l'institut comme un centre leader en formation aux compétences numériques."
+      },
+      {
+        "year": "2018",
+        "title": "Programme CCTV et Surveillance GPS",
+        "description": "Un programme spécialisé en installation de caméras de surveillance et suivi automobile a été lancé, répondant au secteur des technologies de sécurité en pleine expansion."
+      },
+      {
+        "year": "2020",
+        "title": "Initiative de Formation Bilingue",
+        "description": "Le programme de Formation Bilingue a été introduit pour doter les étudiants de compétences professionnelles en français et en anglais, élargissant les opportunités de carrière à travers l'Afrique Centrale."
+      },
+      {
+        "year": "2022",
+        "title": "Partenariats Industriels",
+        "description": "Le NWTVT a formalisé des partenariats avec des entreprises leaders en technologie et énergie, permettant aux étudiants d'accéder à des apprentissages réels et des stages professionnels."
+      },
+      {
+        "year": "2024",
+        "title": "Programme de Marketing Numérique",
+        "description": "En réponse à l'économie numérique, l'institut a lancé un programme complet de Marketing Numérique couvrant le SEO, la stratégie des réseaux sociaux, la création de contenu et l'analyse des données."
+      }
+    ]
   },
   "programDetail": {
     "back": "Retour",

@@ -102,7 +102,58 @@
     "practical": "100% Practical",
     "flexible": "Self-Paced and Flexible"
   },
-  
+  "history": {
+    "heroLabel": "Our Journey",
+    "heroTitle": "History",
+    "heroSubtitle": "A legacy of excellence in vocational training — empowering generations with practical skills for a changing world.",
+    "introText": "New World Technology Vocational Training Institute has built a proud tradition of excellence since its founding. We have continuously evolved to meet the demands of industry, producing skilled graduates who drive innovation and development across Cameroon and beyond.",
+    "keyDatesLabel": "Milestones",
+    "keyDatesTitle": "Key Start Dates",
+    "legacyTitle": "Building the Future, One Graduate at a Time",
+    "legacyText": "From our first cohort of students to our growing alumni network, every milestone reflects our unwavering commitment to practical, industry-ready education that transforms lives and communities.",
+    "milestones": [
+      {
+        "year": "2010",
+        "title": "Institute Founded",
+        "description": "New World Technology Vocational Training Institute was established in Yaoundé, Cameroon, with a mission to provide practical, high-quality vocational education to the next generation."
+      },
+      {
+        "year": "2012",
+        "title": "First Graduates",
+        "description": "The institute celebrated its first graduating cohort, with students entering the workforce in electrical engineering, computing, and renewable energy sectors."
+      },
+      {
+        "year": "2014",
+        "title": "Renewable Energy Program Launched",
+        "description": "In response to growing demand for green energy professionals, NWTVT launched its flagship Renewable Energy program, covering solar, wind, and energy management."
+      },
+      {
+        "year": "2016",
+        "title": "Digital Technology Expansion",
+        "description": "New programs in General Computing, Graphic Design, and Web Design were introduced, positioning the institute as a leading centre for digital skills training."
+      },
+      {
+        "year": "2018",
+        "title": "CCTV & GPS Surveillance Program",
+        "description": "A specialized program in surveillance camera installation and automobile tracking was launched, addressing the fast-growing security technology sector."
+      },
+      {
+        "year": "2020",
+        "title": "Bilingual Training Initiative",
+        "description": "The Bilingual Training program was introduced to equip students with professional French and English communication skills, broadening career opportunities across Central Africa."
+      },
+      {
+        "year": "2022",
+        "title": "Industry Partnerships",
+        "description": "NWTVT formalized partnerships with leading technology and energy companies, enabling students to access real-world apprenticeships and internship placements."
+      },
+      {
+        "year": "2024",
+        "title": "Digital Marketing Program",
+        "description": "Responding to the digital economy, the institute launched a comprehensive Digital Marketing program covering SEO, social media strategy, content creation, and data analytics."
+      }
+    ]
+  },
   "programDetail": {
     "back": "Back",
     "programDetails": "Program Details",

@@ -199,5 +199,264 @@
     "termsOfService": "Terms of Service",
     "accreditation": "Accreditation",
     "language": "Language"
+  },
+  "admissions": {
+    "heroLabel": "Join Our Community",
+    "heroTitle": "Admissions",
+    "heroYear": "2025 – 2026",
+    "heroSubtitle": "Your journey to a professional career begins here. Applications are now open for the new academic year.",
+    "startApplication": "Start Your Application",
+    "chatWhatsapp": "Chat on WhatsApp",
+    "strip": {
+      "admissionPeriodLabel": "Admission Period",
+      "admissionPeriod": "June – October 2025",
+      "officeHoursLabel": "Office Hours",
+      "officeHours": "Mon–Fri: 8:00 AM – 5:00 PM",
+      "locationLabel": "Campus Location",
+      "location": "Messasi, Yaoundé, Cameroon",
+      "phoneLabel": "Admissions Line",
+      "phone": "+237 678 58 78 61"
+    },
+    "programsLabel": "Programs Open for Admission",
+    "programsTitle": "Choose Your Program",
+    "programsSub": "All programs below are currently accepting applications for the 2025–2026 academic year. Spots are limited — apply early.",
+    "badgeOpen": "Accepting Applications",
+    "badgeFull": "Fully Enrolled",
+    "intake": "Intake",
+    "maxStudents": "Max students / batch",
+    "programs": [
+      {
+        "name": "Computer Science & IT",
+        "duration": "12 months",
+        "intake": "September 2025",
+        "spots": 30,
+        "open": true
+      },
+      {
+        "name": "Renewable Energy",
+        "duration": "12 months",
+        "intake": "September 2025",
+        "spots": 25,
+        "open": true
+      },
+      {
+        "name": "Electrical Engineering",
+        "duration": "12 months",
+        "intake": "September 2025",
+        "spots": 25,
+        "open": true
+      },
+      {
+        "name": "Graphic Design & Web Design",
+        "duration": "12 months",
+        "intake": "September 2025",
+        "spots": 30,
+        "open": true
+      },
+      {
+        "name": "Digital Marketing",
+        "duration": "12 months",
+        "intake": "October 2025",
+        "spots": 30,
+        "open": false
+      },
+      {
+        "name": "CCTV & GPS Surveillance",
+        "duration": "12 months",
+        "intake": "September 2025",
+        "spots": 20,
+        "open": true
+      }
+    ],
+    "requirementsLabel": "Entry Requirements",
+    "requirementsTitle": "Who Can Apply?",
+    "requirementsSub": "We welcome motivated individuals who meet the following minimum criteria.",
+    "requirements": [
+      {
+        "title": "Academic Qualification",
+        "desc": "Minimum GCE Ordinary Level (5 subjects including English) or Baccalauréat (Série A, C, D, or F). Equivalent qualifications are assessed individually."
+      },
+      {
+        "title": "Age Requirement",
+        "desc": "Applicants must be at least <strong>17 years old</strong> at the time of enrollment. There is no upper age limit — we welcome working professionals seeking to upskill."
+      },
+      {
+        "title": "Prior Experience",
+        "desc": "No prior professional experience is required for standard admission. However, work experience is an advantage for advanced program tracks and will be noted at interview."
+      },
+      {
+        "title": "Entrance Assessment",
+        "desc": "All applicants sit a short written test covering logical reasoning and basic mathematics. Shortlisted candidates proceed to a 15-minute personal interview with an admissions panel."
+      }
+    ],
+    "documentsLabel": "Required Documents",
+    "documentsTitle": "What to Bring",
+    "documentsSub": "Please come prepared with all documents below to avoid delays. Originals are required for verification — they will be returned to you the same day.",
+    "tableDoc": "Document",
+    "tableCopies": "Copies Required",
+    "tableStatus": "Status",
+    "required": "Required",
+    "optional": "Optional",
+    "documentsNotice": "All photocopies must be <strong>certified true copies</strong> by a competent authority (school, notary, or divisional officer). Uncertified copies will not be accepted.",
+    "documents": [
+      {
+        "item": "National Identity Card (CNI)",
+        "copies": "2 certified copies + original",
+        "required": true
+      },
+      {
+        "item": "Birth Certificate",
+        "copies": "2 certified copies + original",
+        "required": true
+      },
+      {
+        "item": "GCE O/L or Baccalauréat Certificate",
+        "copies": "2 certified copies + original",
+        "required": true
+      },
+      {
+        "item": "Official Academic Transcripts",
+        "copies": "2 certified copies",
+        "required": true
+      },
+      {
+        "item": "Passport-Size Photos (white background)",
+        "copies": "4 photos",
+        "required": true
+      },
+      {
+        "item": "Curriculum Vitae (CV)",
+        "copies": "1 copy",
+        "required": false
+      },
+      {
+        "item": "Letter of Motivation",
+        "copies": "1 copy (typed)",
+        "required": false
+      }
+    ],
+    "feesLabel": "Fees & Payment",
+    "feesTitle": "Transparent Pricing",
+    "feesSub": "We believe quality education should be accessible. Payment plans are available for all students.",
+    "registrationFeeLabel": "Registration Fee",
+    "registrationFeeDesc": "Non-refundable. Paid on the day of application submission. Covers administrative processing and entrance assessment.",
+    "tuitionFeeLabel": "Annual Tuition (Average)",
+    "tuitionFeeDesc": "Varies by program. Payable in up to 3 installments per semester. First installment due before class start date.",
+    "paymentMethodsTitle": "Accepted Payment Methods",
+    "paymentMethods": [
+      "MTN Mobile Money",
+      "Orange Money",
+      "Bank Transfer",
+      "Cash (at office)"
+    ],
+    "stepsLabel": "Application Process",
+    "stepsTitle": "How to Apply — Step by Step",
+    "stepsSub": "Follow these six steps to complete your application successfully.",
+    "steps": [
+      {
+        "title": "Obtain Application Form",
+        "desc": "Visit our admissions office or download the form online. Complete all sections clearly in block letters."
+      },
+      {
+        "title": "Gather Required Documents",
+        "desc": "Prepare certified copies of all required documents. Ensure originals are ready for verification."
+      },
+      {
+        "title": "Submit Application & Pay Fee",
+        "desc": "Submit your completed form with documents and pay the 5,000 FCFA non-refundable registration fee."
+      },
+      {
+        "title": "Entrance Assessment",
+        "desc": "Attend a short written test and a brief interview with the admissions panel (no prior preparation needed)."
+      },
+      {
+        "title": "Receive Admission Letter",
+        "desc": "Successful candidates receive their official admission letter within 5 working days by email and SMS."
+      },
+      {
+        "title": "Pay Tuition & Enroll",
+        "desc": "Confirm your place by paying the first tuition installment and completing your enrollment registration."
+      }
+    ],
+    "accredLabel": "Certification & Accreditation",
+    "accredTitle": "Your Degree Has Real Value",
+    "accredSub": "When you graduate from our institution, your certificate opens real doors.",
+    "accredCards": [
+      {
+        "title": "Government Recognized",
+        "desc": "All diplomas are officially recognized by the <strong>Ministry of Higher Education (MINESUP)</strong> of Cameroon. Your qualification is valid nationwide and internationally."
+      },
+      {
+        "title": "Mandatory Internship",
+        "desc": "Every program includes a structured internship in the final year. We partner with over <strong>60 companies and organizations</strong> to guarantee quality placement opportunities."
+      },
+      {
+        "title": "Job Placement Support",
+        "desc": "Our careers office actively connects graduates with employers. We host annual recruitment fairs and maintain a job board exclusively for our alumni network."
+      }
+    ],
+    "testimonialsLabel": "Student Testimonials",
+    "testimonialsTitle": "What Our Students Say",
+    "testimonials": [
+      {
+        "name": "Amina Tchamba",
+        "program": "Business Administration, 2023",
+        "text": "The admissions process was smooth and the staff were extremely helpful. I was enrolled within a week of submitting my documents."
+      },
+      {
+        "name": "Kevin Ngomo",
+        "program": "Computer Science, 2022",
+        "text": "I had all my documents ready thanks to the checklist they gave me. The entrance test was straightforward and fair."
+      },
+      {
+        "name": "Christelle Biyong",
+        "program": "Accounting & Finance, 2024",
+        "text": "The installment payment plan made it very manageable for my family. I never felt financially pressured during enrollment."
+      }
+    ],
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "q": "Is admission open all year round?",
+        "a": "Admission is primarily open from June to August for the September intake. However, late applications may be considered on a case-by-case basis until October, subject to available spots."
+      },
+      {
+        "q": "Do I need an appointment before coming to campus?",
+        "a": "An appointment is not strictly required, but it is recommended to ensure an admissions officer is available to attend to you. You can call or WhatsApp us to schedule a convenient time."
+      },
+      {
+        "q": "Is prior work experience required for admission?",
+        "a": "Prior experience is not required for most programs. However, for certain advanced professional tracks, relevant work experience may be an added advantage during the interview."
+      },
+      {
+        "q": "Can I pay tuition in installments?",
+        "a": "Yes. Tuition can be paid in up to three installments per semester. The first installment must be paid before classes begin. A payment schedule is agreed upon at enrollment."
+      },
+      {
+        "q": "Is the certificate recognized by the Cameroonian government?",
+        "a": "Yes. All our certificates and diplomas are recognized by the Ministry of Higher Education (MINESUP). We are a fully accredited institution."
+      },
+      {
+        "q": "Is internship included in the programs?",
+        "a": "Yes. All programs include a mandatory internship component in the final year. Our partnerships with local companies and NGOs ensure students access quality internship placements."
+      }
+    ],
+    "findUsLabel": "Find Us",
+    "findUsTitle": "Visit Our Campus",
+    "findUsSub": "Our admissions office is open Monday to Friday. Walk-ins welcome, appointments preferred.",
+    "contact": {
+      "addressLabel": "Campus Address",
+      "address": "Messasi, Yaoundé, Centre Region, Cameroon",
+      "hoursLabel": "Office Hours",
+      "hours": "Monday – Friday: 8:00 AM – 5:00 PM\nSaturday: 9:00 AM – 12:00 PM",
+      "phoneLabel": "Admissions Telephone",
+      "phone": "+237 678 58 78 61 / +237 640 91 96 99",
+      "callBtn": "Call Admissions",
+      "whatsappBtn": "WhatsApp Us"
+    },
+    "ctaTitle": "Ready to Take the Next Step?",
+    "ctaText": "Don't wait — spots fill up fast. Apply today and secure your place in Cameroon's leading professional training institute.",
+    "ctaApply": "Apply Now",
+    "ctaAsk": "Ask a Question"
   }
 }

@@ -199,5 +199,264 @@
     "termsOfService": "Conditions d'Utilisation",
     "accreditation": "Accréditation",
     "language": "Langue"
+  },
+  "admissions": {
+    "heroLabel": "Rejoignez Notre Communauté",
+    "heroTitle": "Admissions",
+    "heroYear": "2025 – 2026",
+    "heroSubtitle": "Votre parcours vers une carrière professionnelle commence ici. Les candidatures sont ouvertes pour la nouvelle année académique.",
+    "startApplication": "Démarrer ma Candidature",
+    "chatWhatsapp": "Discuter sur WhatsApp",
+    "strip": {
+      "admissionPeriodLabel": "Période d'Admission",
+      "admissionPeriod": "Juin – Octobre 2025",
+      "officeHoursLabel": "Heures de Bureau",
+      "officeHours": "Lun–Ven: 8h00 – 17h00",
+      "locationLabel": "Emplacement du Campus",
+      "location": "Messasi, Yaoundé, Cameroun",
+      "phoneLabel": "Ligne des Admissions",
+      "phone": "+237 678 58 78 61"
+    },
+    "programsLabel": "Programmes Ouverts aux Admissions",
+    "programsTitle": "Choisissez Votre Programme",
+    "programsSub": "Tous les programmes ci-dessous acceptent actuellement des candidatures pour l'année académique 2025–2026. Les places sont limitées — postulez tôt.",
+    "badgeOpen": "Candidatures Acceptées",
+    "badgeFull": "Complet",
+    "intake": "Rentrée",
+    "maxStudents": "Max étudiants / groupe",
+    "programs": [
+      {
+        "name": "Informatique & Technologie",
+        "duration": "12 mois",
+        "intake": "Septembre 2025",
+        "spots": 30,
+        "open": true
+      },
+      {
+        "name": "Énergie Renouvelable",
+        "duration": "12 mois",
+        "intake": "Septembre 2025",
+        "spots": 25,
+        "open": true
+      },
+      {
+        "name": "Génie Électrique",
+        "duration": "12 mois",
+        "intake": "Septembre 2025",
+        "spots": 25,
+        "open": true
+      },
+      {
+        "name": "Design Graphique & Web",
+        "duration": "12 mois",
+        "intake": "Septembre 2025",
+        "spots": 30,
+        "open": true
+      },
+      {
+        "name": "Marketing Numérique",
+        "duration": "12 mois",
+        "intake": "Octobre 2025",
+        "spots": 30,
+        "open": false
+      },
+      {
+        "name": "CCTV & Surveillance GPS",
+        "duration": "12 mois",
+        "intake": "Septembre 2025",
+        "spots": 20,
+        "open": true
+      }
+    ],
+    "requirementsLabel": "Conditions d'Admission",
+    "requirementsTitle": "Qui Peut Postuler ?",
+    "requirementsSub": "Nous accueillons les personnes motivées qui répondent aux critères minimaux suivants.",
+    "requirements": [
+      {
+        "title": "Qualification Académique",
+        "desc": "Minimum GCE Ordinary Level (5 matières dont l'anglais) ou Baccalauréat (Série A, C, D ou F). Les qualifications équivalentes sont évaluées individuellement."
+      },
+      {
+        "title": "Condition d'Âge",
+        "desc": "Les candidats doivent avoir au moins <strong>17 ans</strong> au moment de l'inscription. Il n'y a pas de limite d'âge supérieure — nous accueillons les professionnels souhaitant se perfectionner."
+      },
+      {
+        "title": "Expérience Préalable",
+        "desc": "Aucune expérience professionnelle préalable n'est requise pour l'admission standard. Cependant, une expérience de travail peut être un avantage pour les filières avancées."
+      },
+      {
+        "title": "Évaluation d'Entrée",
+        "desc": "Tous les candidats passent un court test écrit couvrant le raisonnement logique et les mathématiques de base. Les candidats présélectionnés passent un entretien de 15 minutes avec un jury d'admission."
+      }
+    ],
+    "documentsLabel": "Documents Requis",
+    "documentsTitle": "Ce qu'il Faut Apporter",
+    "documentsSub": "Veuillez vous présenter avec tous les documents ci-dessous pour éviter les retards. Les originaux sont requis pour vérification — ils vous seront restitués le jour même.",
+    "tableDoc": "Document",
+    "tableCopies": "Copies Requises",
+    "tableStatus": "Statut",
+    "required": "Obligatoire",
+    "optional": "Facultatif",
+    "documentsNotice": "Toutes les photocopies doivent être des <strong>copies certifiées conformes</strong> par une autorité compétente (école, notaire ou officier de subdivision). Les copies non certifiées ne seront pas acceptées.",
+    "documents": [
+      {
+        "item": "Carte Nationale d'Identité (CNI)",
+        "copies": "2 copies certifiées + original",
+        "required": true
+      },
+      {
+        "item": "Acte de Naissance",
+        "copies": "2 copies certifiées + original",
+        "required": true
+      },
+      {
+        "item": "Certificat GCE O/L ou Baccalauréat",
+        "copies": "2 copies certifiées + original",
+        "required": true
+      },
+      {
+        "item": "Relevés de Notes Officiels",
+        "copies": "2 copies certifiées",
+        "required": true
+      },
+      {
+        "item": "Photos d'Identité (fond blanc)",
+        "copies": "4 photos",
+        "required": true
+      },
+      {
+        "item": "Curriculum Vitae (CV)",
+        "copies": "1 exemplaire",
+        "required": false
+      },
+      {
+        "item": "Lettre de Motivation",
+        "copies": "1 exemplaire (tapé)",
+        "required": false
+      }
+    ],
+    "feesLabel": "Frais & Paiement",
+    "feesTitle": "Tarification Transparente",
+    "feesSub": "Nous croyons que l'éducation de qualité doit être accessible. Des plans de paiement sont disponibles pour tous les étudiants.",
+    "registrationFeeLabel": "Frais d'Inscription",
+    "registrationFeeDesc": "Non remboursable. Payé le jour du dépôt du dossier. Couvre le traitement administratif et l'évaluation d'entrée.",
+    "tuitionFeeLabel": "Scolarité Annuelle (Moyenne)",
+    "tuitionFeeDesc": "Varie selon le programme. Payable en jusqu'à 3 versements par semestre. Le premier versement est dû avant le début des cours.",
+    "paymentMethodsTitle": "Méthodes de Paiement Acceptées",
+    "paymentMethods": [
+      "MTN Mobile Money",
+      "Orange Money",
+      "Virement Bancaire",
+      "Espèces (au bureau)"
+    ],
+    "stepsLabel": "Processus de Candidature",
+    "stepsTitle": "Comment Postuler — Étape par Étape",
+    "stepsSub": "Suivez ces six étapes pour compléter votre candidature avec succès.",
+    "steps": [
+      {
+        "title": "Obtenir le Formulaire de Candidature",
+        "desc": "Visitez notre bureau des admissions ou téléchargez le formulaire en ligne. Remplissez toutes les sections clairement en lettres majuscules."
+      },
+      {
+        "title": "Rassembler les Documents Requis",
+        "desc": "Préparez des copies certifiées de tous les documents requis. Assurez-vous que les originaux sont prêts pour vérification."
+      },
+      {
+        "title": "Soumettre le Dossier & Payer les Frais",
+        "desc": "Déposez votre dossier complet avec les documents et payez les 5 000 FCFA de frais d'inscription non remboursables."
+      },
+      {
+        "title": "Évaluation d'Entrée",
+        "desc": "Participez à un court test écrit et un bref entretien avec le jury d'admission (aucune préparation préalable nécessaire)."
+      },
+      {
+        "title": "Recevoir la Lettre d'Admission",
+        "desc": "Les candidats retenus reçoivent leur lettre d'admission officielle dans les 5 jours ouvrables par e-mail et SMS."
+      },
+      {
+        "title": "Payer la Scolarité & S'inscrire",
+        "desc": "Confirmez votre place en payant le premier versement de la scolarité et en complétant votre inscription."
+      }
+    ],
+    "accredLabel": "Certification & Accréditation",
+    "accredTitle": "Votre Diplôme a une Vraie Valeur",
+    "accredSub": "Quand vous obtenez votre diplôme chez nous, votre certificat ouvre de vraies portes.",
+    "accredCards": [
+      {
+        "title": "Reconnu par le Gouvernement",
+        "desc": "Tous les diplômes sont officiellement reconnus par le <strong>Ministère de l'Enseignement Supérieur (MINESUP)</strong> du Cameroun. Votre qualification est valable à l'échelle nationale et internationale."
+      },
+      {
+        "title": "Stage Obligatoire",
+        "desc": "Chaque programme comprend un stage structuré en dernière année. Nous partenons avec plus de <strong>60 entreprises et organisations</strong> pour garantir des opportunités de stage de qualité."
+      },
+      {
+        "title": "Soutien à l'Insertion Professionnelle",
+        "desc": "Notre bureau des carrières connecte activement les diplômés avec les employeurs. Nous organisons des foires de recrutement annuelles et maintenons un tableau d'offres exclusif pour nos anciens."
+      }
+    ],
+    "testimonialsLabel": "Témoignages d'Étudiants",
+    "testimonialsTitle": "Ce que Disent Nos Étudiants",
+    "testimonials": [
+      {
+        "name": "Amina Tchamba",
+        "program": "Administration des Affaires, 2023",
+        "text": "Le processus d'admission était fluide et le personnel était extrêmement serviable. J'étais inscrite en une semaine après avoir soumis mes documents."
+      },
+      {
+        "name": "Kevin Ngomo",
+        "program": "Informatique, 2022",
+        "text": "J'avais tous mes documents prêts grâce à la liste qu'ils m'ont fournie. Le test d'entrée était simple et équitable."
+      },
+      {
+        "name": "Christelle Biyong",
+        "program": "Comptabilité & Finance, 2024",
+        "text": "Le plan de paiement échelonné était très gérable pour ma famille. Je n'ai jamais ressenti de pression financière pendant l'inscription."
+      }
+    ],
+    "faqTitle": "Questions Fréquemment Posées",
+    "faqs": [
+      {
+        "q": "Les admissions sont-elles ouvertes toute l'année ?",
+        "a": "Les admissions sont principalement ouvertes de juin à août pour la rentrée de septembre. Cependant, les candidatures tardives peuvent être examinées au cas par cas jusqu'en octobre, sous réserve de places disponibles."
+      },
+      {
+        "q": "Dois-je prendre rendez-vous avant de venir sur le campus ?",
+        "a": "Un rendez-vous n'est pas strictement requis, mais il est recommandé pour s'assurer qu'un agent des admissions est disponible pour vous recevoir. Vous pouvez nous appeler ou nous envoyer un WhatsApp pour planifier un moment."
+      },
+      {
+        "q": "Une expérience professionnelle préalable est-elle requise ?",
+        "a": "L'expérience préalable n'est pas requise pour la plupart des programmes. Cependant, pour certaines filières professionnelles avancées, une expérience de travail pertinente peut constituer un avantage supplémentaire lors de l'entretien."
+      },
+      {
+        "q": "Puis-je payer la scolarité en plusieurs fois ?",
+        "a": "Oui. La scolarité peut être payée en jusqu'à trois versements par semestre. Le premier versement doit être effectué avant le début des cours. Un calendrier de paiement est convenu lors de l'inscription."
+      },
+      {
+        "q": "Le certificat est-il reconnu par le gouvernement camerounais ?",
+        "a": "Oui. Tous nos certificats et diplômes sont reconnus par le Ministère de l'Enseignement Supérieur (MINESUP). Nous sommes un établissement entièrement accrédité."
+      },
+      {
+        "q": "Un stage est-il inclus dans les programmes ?",
+        "a": "Oui. Tous les programmes incluent un stage obligatoire en dernière année. Nos partenariats avec des entreprises et ONG locales garantissent aux étudiants des opportunités de stage de qualité."
+      }
+    ],
+    "findUsLabel": "Nous Trouver",
+    "findUsTitle": "Visitez Notre Campus",
+    "findUsSub": "Notre bureau des admissions est ouvert du lundi au vendredi. Passage libre bienvenu, rendez-vous préféré.",
+    "contact": {
+      "addressLabel": "Adresse du Campus",
+      "address": "Messasi, Yaoundé, Région du Centre, Cameroun",
+      "hoursLabel": "Heures d'Ouverture",
+      "hours": "Lundi – Vendredi: 8h00 – 17h00\nSamedi: 9h00 – 12h00",
+      "phoneLabel": "Téléphone des Admissions",
+      "phone": "+237 678 58 78 61 / +237 640 91 96 99",
+      "callBtn": "Appeler les Admissions",
+      "whatsappBtn": "Nous Écrire sur WhatsApp"
+    },
+    "ctaTitle": "Prêt(e) à Franchir le Pas ?",
+    "ctaText": "N'attendez pas — les places se remplissent vite. Postulez aujourd'hui et assurez votre place dans le principal institut de formation professionnelle du Cameroun.",
+    "ctaApply": "Postuler Maintenant",
+    "ctaAsk": "Poser une Question"
   }
 }

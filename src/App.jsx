@@ -8,6 +8,7 @@ import Programs from './Pages/Programs/Programs'
 import ProgramDetail from './Pages/ProgramDetail/ProgramDetail'
 import Footer from './Components/Footer/Footer'
 import History from './Pages/About/History/History'
+import Admission from './Pages/Admissions/Admission'
 
 const App = () => {
 
@@ -21,6 +22,7 @@ const App = () => {
         <Route path='/programs' element={<Programs/>}/>
         <Route path='/program/:id' element={<ProgramDetail/>}/>
         <Route path='/about/history' element={<History/>}/>
+        <Route path='/admissions' element={<Admission/>}/>
       </Routes>
       
 

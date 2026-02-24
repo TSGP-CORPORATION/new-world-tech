@@ -458,5 +458,158 @@
     "ctaText": "N'attendez pas — les places se remplissent vite. Postulez aujourd'hui et assurez votre place dans le principal institut de formation professionnelle du Cameroun.",
     "ctaApply": "Postuler Maintenant",
     "ctaAsk": "Poser une Question"
+  },
+  "missionVision": {
+    "heroLabel": "Notre Raison d'Être",
+    "heroTitle": "Mission & Vision",
+    "heroSubtitle": "Les principes et les ambitions qui guident chacune de nos décisions et chaque étudiant que nous formons.",
+    "missionTag": "Mission",
+    "missionTitle": "Notre Mission",
+    "missionText": "Offrir une formation professionnelle accessible, de haute qualité et axée sur la pratique, qui dote les individus des compétences techniques et professionnelles nécessaires pour s'épanouir dans l'économie camerounaise en évolution et contribuer positivement à leurs communautés.",
+    "visionTag": "Vision",
+    "visionTitle": "Notre Vision",
+    "visionText": "Devenir le principal institut de formation professionnelle en Afrique Centrale — reconnu pour l'excellence de l'enseignement pratique, l'innovation en formation technique, et l'impact transformateur de nos diplômés sur l'industrie et la société.",
+    "valuesLabel": "Valeurs Fondamentales",
+    "valuesTitle": "Ce en Quoi Nous Croyons",
+    "valuesSub": "Ces six valeurs constituent le socle de tout ce que nous faisons — de notre façon d'enseigner à la manière dont nous soutenons nos étudiants.",
+    "coreValues": [
+      {
+        "title": "Innovation",
+        "desc": "Nous mettons continuellement à jour notre programme et nos méthodes pédagogiques pour refléter les dernières tendances industrielles et les avancées technologiques."
+      },
+      {
+        "title": "Intégrité",
+        "desc": "Nous maintenons les plus hauts standards d'honnêteté, de transparence et de conduite éthique dans toutes nos activités académiques et administratives."
+      },
+      {
+        "title": "Communauté",
+        "desc": "Nous sommes profondément investis dans la croissance de nos communautés locales, en formant des diplômés qui s'y engagent et suscitent un changement positif."
+      },
+      {
+        "title": "Excellence",
+        "desc": "Nous poursuivons l'excellence dans tout — de la qualité de l'enseignement à l'environnement d'apprentissage et aux services de soutien aux étudiants."
+      },
+      {
+        "title": "Accréditation",
+        "desc": "Tous nos programmes répondent aux normes nationales fixées par le Ministère de l'Enseignement Supérieur (MINESUP), assurant la reconnaissance de votre diplôme."
+      },
+      {
+        "title": "Inclusivité",
+        "desc": "Nous croyons que l'éducation est un droit. Nous nous efforçons de rendre nos programmes accessibles aux étudiants de tous horizons et milieux."
+      }
+    ],
+    "objectivesLabel": "Objectifs Stratégiques",
+    "objectivesTitle": "Nos Objectifs Stratégiques",
+    "objectivesSub": "Ce sont les objectifs concrets qui font avancer notre institution chaque année académique.",
+    "objectives": [
+      {
+        "title": "Dispenser une Formation Prête pour l'Industrie",
+        "desc": "S'assurer que chaque diplômé possède des compétences pratiques immédiatement applicables en milieu professionnel, réduisant ainsi le déficit de compétences dans les secteurs clés."
+      },
+      {
+        "title": "Élargir l'Offre de Programmes",
+        "desc": "Développer continuellement de nouveaux programmes professionnels répondant aux demandes émergentes du marché, notamment dans l'énergie verte, la technologie numérique et la communication bilingue."
+      },
+      {
+        "title": "Renforcer les Partenariats Industriels",
+        "desc": "Construire et approfondir des relations avec des entreprises locales, des ONG et des agences gouvernementales pour créer des filières de stage et d'emploi solides pour nos étudiants."
+      },
+      {
+        "title": "Obtenir l'Accréditation Institutionnelle Complète",
+        "desc": "Maintenir et développer notre statut d'accréditation auprès du MINESUP, garantissant que tous les programmes atteignent ou dépassent les repères nationaux de qualité éducative."
+      },
+      {
+        "title": "Promouvoir la Transformation Numérique",
+        "desc": "Intégrer des outils numériques, des ressources d'apprentissage en ligne et des équipements de laboratoire modernes dans tous les programmes de formation pour préparer les étudiants à l'économie numérique."
+      },
+      {
+        "title": "Soutenir l'Emploi des Diplômés",
+        "desc": "Gérer un service de carrières actif qui suit les résultats des diplômés, facilite les contacts avec les employeurs et fournit un soutien post-diplôme."
+      }
+    ],
+    "bannerTitle": "L'Excellence en Chaque Diplômé",
+    "bannerText": "Notre mission et notre vision ne sont pas que des mots sur un mur — elles sont vécues chaque jour dans nos salles de classe, ateliers et dans les carrières de milliers de diplômés à travers le Cameroun et au-delà."
+  },
+  "leadership": {
+    "heroLabel": "Rencontrez l'Équipe",
+    "heroTitle": "Notre Direction",
+    "heroSubtitle": "Guidés par des professionnels expérimentés dédiés à transformer des vies grâce à une éducation professionnelle de qualité.",
+    "quote": "Le vrai leadership consiste à permettre aux autres de découvrir leur potentiel et à leur donner les outils pour construire leur avenir. Chaque étudiant qui franchit nos portes repart avec plus qu'un diplôme — il repart avec un but.",
+    "quoteAuthor": "Fondateur & Directeur Général, Institut NWTVT",
+    "stats": [
+      {
+        "value": "14+",
+        "label": "Années d'Expérience"
+      },
+      {
+        "value": "2 000+",
+        "label": "Diplômés Formés"
+      },
+      {
+        "value": "8",
+        "label": "Programmes Offerts"
+      },
+      {
+        "value": "60+",
+        "label": "Partenaires Industriels"
+      }
+    ],
+    "executiveLabel": "Équipe Dirigeante",
+    "executiveTitle": "Notre Direction Générale",
+    "executiveSub": "Une équipe d'éducateurs et de professionnels dévoués, engagés à fournir l'excellence en formation professionnelle.",
+    "leaders": [
+      {
+        "name": "Dr. Emmanuel Nkwenti",
+        "role": "Fondateur & Directeur Général",
+        "bio": "Avec plus de 20 ans dans l'éducation et l'ingénierie, le Dr Nkwenti a fondé le NWTVT avec la vision de combler le déficit de compétences dans les secteurs de la technologie et de l'énergie au Cameroun. Il est titulaire d'un doctorat en génie électrique et est auditeur énergétique certifié.",
+        "email": "directeur@nwtvt.cm",
+        "linkedin": ""
+      },
+      {
+        "name": "Mme Solange Mbarga",
+        "role": "Directrice Académique",
+        "bio": "Mme Mbarga supervise le développement des programmes et la qualité académique de l'ensemble des formations. Éducatrice bilingue avec 15 ans d'expérience, elle veille à ce que notre formation réponde aux normes industrielles nationales et internationales.",
+        "email": "academique@nwtvt.cm",
+        "linkedin": ""
+      },
+      {
+        "name": "M. Patrick Fouda",
+        "role": "Directeur des Admissions & Affaires Étudiantes",
+        "bio": "M. Fouda gère l'ensemble du parcours étudiant, du premier contact jusqu'à l'obtention du diplôme. Il a porté des initiatives d'accessibilité qui ont aidé plus de 500 étudiants à bénéficier d'un soutien financier et d'options de paiement flexibles.",
+        "email": "admissions@nwtvt.cm",
+        "linkedin": ""
+      }
+    ],
+    "boardLabel": "Conseil Consultatif",
+    "boardTitle": "Membres du Conseil & Conseillers",
+    "boardSub": "Des leaders industriels et des spécialistes de l'éducation qui guident notre orientation stratégique et notre alignement avec l'industrie.",
+    "boardMembers": [
+      {
+        "name": "Ing. Charles Atanga",
+        "role": "Conseiller Industriel — Énergie Renouvelable"
+      },
+      {
+        "name": "Prof. Marie Ngono",
+        "role": "Conseillère en Standards Éducatifs"
+      },
+      {
+        "name": "M. Joseph Kamga",
+        "role": "Conseiller en Développement des Affaires"
+      },
+      {
+        "name": "Mme Hortense Essomba",
+        "role": "Conseillère en Technologie Numérique"
+      },
+      {
+        "name": "Dr. Pierre Tchougang",
+        "role": "Chargé des Relations Gouvernementales"
+      },
+      {
+        "name": "Mme Anastasie Biyong",
+        "role": "Conseillère en Affaires Étudiantes"
+      }
+    ],
+    "bannerTitle": "Un Leadership Ancré dans la Vocation",
+    "bannerText": "Notre équipe de direction réunit des décennies d'expérience combinée en éducation, ingénierie et affaires — toutes unies par un seul engagement : votre réussite."
   }
 }

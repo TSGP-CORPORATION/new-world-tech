@@ -458,5 +458,158 @@
     "ctaText": "Don't wait — spots fill up fast. Apply today and secure your place in Cameroon's leading professional training institute.",
     "ctaApply": "Apply Now",
     "ctaAsk": "Ask a Question"
+  },
+  "missionVision": {
+    "heroLabel": "Our Purpose",
+    "heroTitle": "Mission & Vision",
+    "heroSubtitle": "The principles and ambitions that guide every decision we make and every student we train.",
+    "missionTag": "Mission",
+    "missionTitle": "Our Mission",
+    "missionText": "To provide accessible, high-quality, and practical vocational training that equips individuals with the technical skills and professional competencies needed to thrive in Cameroon's evolving economy and contribute meaningfully to their communities.",
+    "visionTag": "Vision",
+    "visionTitle": "Our Vision",
+    "visionText": "To be the leading vocational training institution in Central Africa — recognized for excellence in practical education, innovation in technical training, and the transformative impact of our graduates on industry and society.",
+    "valuesLabel": "Core Values",
+    "valuesTitle": "What We Stand For",
+    "valuesSub": "These six values are the foundation of everything we do — from how we teach to how we support our students.",
+    "coreValues": [
+      {
+        "title": "Innovation",
+        "desc": "We continuously update our curriculum and teaching methods to reflect the latest industry trends and technological advancements."
+      },
+      {
+        "title": "Integrity",
+        "desc": "We uphold the highest standards of honesty, transparency, and ethical conduct in all our academic and administrative activities."
+      },
+      {
+        "title": "Community",
+        "desc": "We are deeply invested in the growth of our local communities, training graduates who give back and drive positive change."
+      },
+      {
+        "title": "Excellence",
+        "desc": "We pursue excellence in everything — from the quality of instruction to the learning environment and student support services."
+      },
+      {
+        "title": "Accreditation",
+        "desc": "All our programs meet the national standards set by the Ministry of Higher Education (MINESUP), ensuring your qualification is recognized."
+      },
+      {
+        "title": "Inclusivity",
+        "desc": "We believe education is a right. We strive to make our programs accessible to students from all backgrounds and walks of life."
+      }
+    ],
+    "objectivesLabel": "Strategic Objectives",
+    "objectivesTitle": "Our Strategic Goals",
+    "objectivesSub": "These are the concrete goals that drive our institution forward each academic year.",
+    "objectives": [
+      {
+        "title": "Deliver Industry-Ready Training",
+        "desc": "Ensure every graduate possesses hands-on skills that are immediately applicable in the workplace, reducing the skills gap in key sectors."
+      },
+      {
+        "title": "Expand Program Offerings",
+        "desc": "Continuously develop new vocational programs that respond to emerging market demands, including green energy, digital technology, and bilingual communication."
+      },
+      {
+        "title": "Strengthen Industry Partnerships",
+        "desc": "Build and deepen relationships with local companies, NGOs, and government agencies to create robust internship and employment pipelines for our students."
+      },
+      {
+        "title": "Achieve Full Institutional Accreditation",
+        "desc": "Maintain and expand our accreditation status with MINESUP, ensuring all programs meet or exceed national education quality benchmarks."
+      },
+      {
+        "title": "Promote Digital Transformation",
+        "desc": "Integrate digital tools, e-learning resources, and modern lab equipment into all training programs to prepare students for the digital economy."
+      },
+      {
+        "title": "Support Graduate Employment",
+        "desc": "Operate an active careers service that tracks graduate outcomes, facilitates employer connections, and provides post-graduation support."
+      }
+    ],
+    "bannerTitle": "Excellence in Every Graduate",
+    "bannerText": "Our mission and vision are not just words on a wall — they are lived every day in our classrooms, workshops, and in the careers of thousands of graduates across Cameroon and beyond."
+  },
+  "leadership": {
+    "heroLabel": "Meet the Team",
+    "heroTitle": "Our Leadership",
+    "heroSubtitle": "Guided by experienced professionals dedicated to transforming lives through quality vocational education.",
+    "quote": "True leadership is about empowering others to discover their potential and giving them the tools to build their future. Every student who walks through our doors leaves with more than a certificate — they leave with purpose.",
+    "quoteAuthor": "Founder & Director General, NWTVT Institute",
+    "stats": [
+      {
+        "value": "14+",
+        "label": "Years of Experience"
+      },
+      {
+        "value": "2,000+",
+        "label": "Graduates Trained"
+      },
+      {
+        "value": "8",
+        "label": "Programs Offered"
+      },
+      {
+        "value": "60+",
+        "label": "Industry Partners"
+      }
+    ],
+    "executiveLabel": "Executive Team",
+    "executiveTitle": "Our Senior Leadership",
+    "executiveSub": "A team of dedicated educators and professionals committed to delivering excellence in vocational training.",
+    "leaders": [
+      {
+        "name": "Dr. Emmanuel Nkwenti",
+        "role": "Founder & Director General",
+        "bio": "With over 20 years in education and engineering, Dr. Nkwenti founded NWTVT with a vision to bridge the skills gap in Cameroon's technology and energy sectors. He holds a PhD in Electrical Engineering and is a certified energy auditor.",
+        "email": "director@nwtvt.cm",
+        "linkedin": ""
+      },
+      {
+        "name": "Mrs. Solange Mbarga",
+        "role": "Academic Director",
+        "bio": "Mrs. Mbarga oversees curriculum development and academic quality across all programs. A bilingual educator with 15 years of experience, she ensures our training meets national and international industry standards.",
+        "email": "academics@nwtvt.cm",
+        "linkedin": ""
+      },
+      {
+        "name": "Mr. Patrick Fouda",
+        "role": "Director of Admissions & Student Affairs",
+        "bio": "Mr. Fouda manages the full student journey from first contact through graduation. He has championed accessibility initiatives that have helped over 500 students access financial support and flexible payment options.",
+        "email": "admissions@nwtvt.cm",
+        "linkedin": ""
+      }
+    ],
+    "boardLabel": "Advisory Board",
+    "boardTitle": "Board & Advisory Members",
+    "boardSub": "Industry leaders and education specialists who guide our strategic direction and industry alignment.",
+    "boardMembers": [
+      {
+        "name": "Eng. Charles Atanga",
+        "role": "Industry Advisor — Renewable Energy"
+      },
+      {
+        "name": "Prof. Marie Ngono",
+        "role": "Education Standards Advisor"
+      },
+      {
+        "name": "Mr. Joseph Kamga",
+        "role": "Business Development Advisor"
+      },
+      {
+        "name": "Ms. Hortense Essomba",
+        "role": "Digital Technology Advisor"
+      },
+      {
+        "name": "Dr. Pierre Tchougang",
+        "role": "Government Relations Liaison"
+      },
+      {
+        "name": "Mrs. Anastasie Biyong",
+        "role": "Student Affairs Advisor"
+      }
+    ],
+    "bannerTitle": "Leadership Rooted in Purpose",
+    "bannerText": "Our leadership team brings together decades of combined experience in education, engineering, and business — all united by a single commitment: your success."
   }
 }

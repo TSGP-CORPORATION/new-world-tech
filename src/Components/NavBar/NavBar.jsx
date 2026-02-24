@@ -52,7 +52,7 @@ const NavBar = () => {
       route: '/about',
       submenu: [
         { name: t('nav.history'), route: '/about/history' },
-        { name: t('nav.missionVision'), route: '/about/mission' },
+        { name: t('nav.missionVision'), route: '/about/mission_vision' },
         { name: t('nav.leadership'), route: '/about/leadership' },
       ],
     },

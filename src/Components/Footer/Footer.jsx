@@ -58,18 +58,7 @@ const Footer = () => {
           <a href="#contact">{t('footer.contactUs')}</a>
         </div>
 
-        {/* Training Programs */}
-        <div className="footer-column">
-          <h3>{t('footer.ourPrograms')}</h3>
-          <div className="programs-list">
-            <span className="program-badge">{t('footer.renewableEnergy')}</span>
-            <span className="program-badge">{t('footer.solarInstallation')}</span>
-            <span className="program-badge">{t('footer.energyAudit')}</span>
-            <span className="program-badge">{t('footer.energyStorage')}</span>
-            <span className="program-badge">{t('footer.cctvSurveillance')}</span>
-            <span className="program-badge">{t('footer.gpsSystems')}</span>
-          </div>
-        </div>
+        
 
         {/* Contact Information */}
         <div className="footer-column">

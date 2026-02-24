@@ -134,16 +134,7 @@ const Admission = () => {
           <span className="admission-hero-label">{t('admissions.heroLabel')}</span>
           <h1>{t('admissions.heroTitle')} <span>{t('admissions.heroYear')}</span></h1>
           <p>{t('admissions.heroSubtitle')}</p>
-          <div className="admission-hero-cta">
-            <a href="#apply-steps" className="btn-primary">
-              {t('admissions.startApplication')}
-              <span className="btn-icon"><ArrowRightIcon /></span>
-            </a>
-            <a href="https://wa.me/237678587861" target="_blank" rel="noopener noreferrer" className="btn-whatsapp">
-              <span className="btn-icon"><WhatsAppIcon /></span>
-              {t('admissions.chatWhatsapp')}
-            </a>
-          </div>
+          
         </div>
       </div>
 
@@ -450,15 +441,7 @@ const Admission = () => {
         <div className="cta-banner-inner">
           <h2>{t('admissions.ctaTitle')}</h2>
           <p>{t('admissions.ctaText')}</p>
-          <div className="cta-banner-buttons">
-            <a href="#apply-steps" className="btn-primary btn-primary--large">
-              {t('admissions.ctaApply')} <span className="btn-icon"><ArrowRightIcon /></span>
-            </a>
-            <a href="https://wa.me/237678587861" target="_blank" rel="noopener noreferrer" className="btn-whatsapp btn-whatsapp--large">
-              <span className="btn-icon"><WhatsAppIcon /></span>
-              {t('admissions.ctaAsk')}
-            </a>
-          </div>
+          
         </div>
       </div>
 

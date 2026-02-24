@@ -92,10 +92,7 @@ const ProgramDetail = () => {
             </ul>
           </div>
 
-          <div className="sidebar-cta">
-            <button className="enroll-btn">{t('programDetail.enrollNow')}</button>
-            <button className="info-btn">{t('programDetail.requestInfo')}</button>
-          </div>
+         
         </aside>
 
         {/* Main Content */}

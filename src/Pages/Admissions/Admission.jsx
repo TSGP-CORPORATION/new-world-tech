@@ -108,18 +108,14 @@ const Admission = () => {
   const { t } = useTranslation()
   const [openFaq, setOpenFaq] = useState(null)
 
-  const programs      = t('admissions.programs',      { returnObjects: true }) || []
   const steps         = t('admissions.steps',         { returnObjects: true }) || []
   const documents     = t('admissions.documents',     { returnObjects: true }) || []
   const faqs          = t('admissions.faqs',          { returnObjects: true }) || []
   const testimonials  = t('admissions.testimonials',  { returnObjects: true }) || []
-  const paymentMethods= t('admissions.paymentMethods',{ returnObjects: true }) || []
   const requirements  = t('admissions.requirements',  { returnObjects: true }) || []
   const accredCards   = t('admissions.accredCards',   { returnObjects: true }) || []
-
   const reqIcons    = [<BookOpenIcon />, <UserIcon />, <BriefcaseIcon />, <FileTextIcon />]
   const accredIcons = [<AwardIcon />, <BriefcaseIcon />, <UsersIcon />]
-  const dotClasses  = ['pay-dot--mtn', 'pay-dot--orange', 'pay-dot--bank', 'pay-dot--cash']
 
   return (
     <div className="admission-page">
@@ -170,41 +166,7 @@ const Admission = () => {
         </div>
       </div>
 
-      {/* ── PROGRAMS ── */}
-      <section className="admission-section" id="programs">
-        <div className="section-inner">
-          <span className="section-label"><BookOpenIcon /> {t('admissions.programsLabel')}</span>
-          <h2>{t('admissions.programsTitle')}</h2>
-          <p className="section-sub">{t('admissions.programsSub')}</p>
-          <div className="programs-admission-grid">
-            {programs.map((prog, i) => (
-              <div key={i} className={`prog-card ${!prog.open ? 'prog-card--closed' : ''}`}>
-                <div className="prog-card-header">
-                  <span className={`prog-badge ${prog.open ? 'prog-badge--open' : 'prog-badge--full'}`}>
-                    {prog.open ? t('admissions.badgeOpen') : t('admissions.badgeFull')}
-                  </span>
-                </div>
-                <h3>{prog.name}</h3>
-                <div className="prog-meta">
-                  <div className="prog-meta-item">
-                    <span className="meta-icon"><ClockIcon /></span>
-                    <span>{prog.duration}</span>
-                  </div>
-                  <div className="prog-meta-item">
-                    <span className="meta-icon"><CalendarIcon /></span>
-                    <span>{t('admissions.intake')}: {prog.intake}</span>
-                  </div>
-                  <div className="prog-meta-item">
-                    <span className="meta-icon"><UsersIcon /></span>
-                    <span>{t('admissions.maxStudents')}: {prog.spots}</span>
-                  </div>
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
+  
       {/* ── REQUIREMENTS ── */}
       <section className="admission-section admission-section--alt">
         <div className="section-inner">
@@ -269,26 +231,16 @@ const Admission = () => {
           <div className="fees-grid">
             <div className="fee-card fee-card--highlight">
               <div className="fee-label">{t('admissions.registrationFeeLabel')}</div>
-              <div className="fee-amount">5,000 <span>FCFA</span></div>
+              <div className="fee-amount">30,000 <span>FCFA</span></div>
               <p>{t('admissions.registrationFeeDesc')}</p>
             </div>
             <div className="fee-card">
               <div className="fee-label">{t('admissions.tuitionFeeLabel')}</div>
-              <div className="fee-amount">350,000 <span>FCFA</span></div>
+              <div className="fee-amount">320,000 <span>FCFA</span></div>
               <p>{t('admissions.tuitionFeeDesc')}</p>
             </div>
           </div>
-          <div className="payment-methods">
-            <h3>{t('admissions.paymentMethodsTitle')}</h3>
-            <div className="payment-methods-grid">
-              {paymentMethods.map((method, i) => (
-                <div key={i} className="pay-method">
-                  <span className={`pay-dot ${dotClasses[i] || ''}`} />
-                  {method}
-                </div>
-              ))}
-            </div>
-          </div>
+          
         </div>
       </section>
 

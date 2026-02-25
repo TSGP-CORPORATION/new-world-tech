@@ -448,7 +448,7 @@
       "addressLabel": "Adresse du Campus",
       "address": "Messasi, Yaoundé, Région du Centre, Cameroun",
       "hoursLabel": "Heures d'Ouverture",
-      "hours": "Lundi – Vendredi: 8h00 – 17h00\nSamedi: 9h00 – 12h00",
+      "hours": "Lundi – Vendredi: 8h00 – 17h00",
       "phoneLabel": "Téléphone des Admissions",
       "phone": "+237 678 58 78 61 / +237 640 91 96 99",
       "callBtn": "Appeler les Admissions",
@@ -491,7 +491,7 @@
       },
       {
         "title": "Accréditation",
-        "desc": "Tous nos programmes répondent aux normes nationales fixées par le Ministère de l'Enseignement Supérieur (MINESUP), assurant la reconnaissance de votre diplôme."
+        "desc": "Tous nos programmes répondent aux normes nationales fixées par le Ministère de l'Emploi et de la Formation Professionnelle (MINEFOP), assurant la reconnaissance de votre diplôme."
       },
       {
         "title": "Inclusivité",

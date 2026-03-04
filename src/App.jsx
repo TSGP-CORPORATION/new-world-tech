@@ -11,6 +11,7 @@ import History from './Pages/About/History/History'
 import Admission from './Pages/Admissions/Admission'
 import Leadership from './Pages/About/Leadership/Leadership'
 import Vision_Mission from './Pages/About/Vision_Mission/Vision_Mission'
+import CookieConsent from './Components/CookieConsent/CookieConsent'
 
 const App = () => {
 
@@ -32,6 +33,7 @@ const App = () => {
 
     </div>
     <Footer/>
+    <CookieConsent/>
     </>
   )
 }

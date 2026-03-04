@@ -302,7 +302,7 @@ const Admission = () => {
                   <div className="testimonial-avatar">{item.name.charAt(0)}</div>
                   <div>
                     <strong>{item.name}</strong>
-                    <span>{item.program}</span>
+                   
                   </div>
                 </div>
               </div>

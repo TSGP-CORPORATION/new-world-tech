@@ -399,9 +399,9 @@
     "testimonialsTitle": "Ce que Disent Nos Étudiants",
     "testimonials": [
       {
-        "name": "Amina Tchamba",
+        "name": "Kum Louis",
         "program": "Administration des Affaires, 2023",
-        "text": "Le processus d'admission était fluide et le personnel était extrêmement serviable. J'étais inscrite en une semaine après avoir soumis mes documents."
+        "text": "Les enseignants transmettent leurs connaissances d'une manière qui rend l'apprentissage facile et accessible, même pour les étudiants qui ne viennent pas d'un milieu technique."
       },
       {
         "name": "Kevin Ngomo",
@@ -559,9 +559,9 @@
     "executiveSub": "Une équipe d'éducateurs et de professionnels dévoués, engagés à fournir l'excellence en formation professionnelle.",
     "leaders": [
       {
-        "name": "Dr. Emmanuel Nkwenti",
+        "name": "Mr. Fuh Rene Che",
         "role": "Fondateur & Directeur Général",
-        "bio": "Avec plus de 20 ans dans l'éducation et l'ingénierie, le Dr Nkwenti a fondé le NWTVT avec la vision de combler le déficit de compétences dans les secteurs de la technologie et de l'énergie au Cameroun. Il est titulaire d'un doctorat en génie électrique et est auditeur énergétique certifié.",
+        "bio": "Avec plus de 20 ans dans l'éducation et l'ingénierie, Mr Rene a fondé le NWTVT avec la vision de combler le déficit de compétences dans les secteurs de la technologie et de l'énergie au Cameroun. Il est titulaire d'un doctorat en génie électrique et est auditeur énergétique certifié.",
         "email": "directeur@nwtvt.cm",
         "linkedin": ""
       },
@@ -611,5 +611,12 @@
     ],
     "bannerTitle": "Un Leadership Ancré dans la Vocation",
     "bannerText": "Notre équipe de direction réunit des décennies d'expérience combinée en éducation, ingénierie et affaires — toutes unies par un seul engagement : votre réussite."
+  },
+  "cookies": {
+    "title": "Paramètres des Cookies",
+    "description": "Nous utilisons des cookies pour améliorer votre expérience, analyser le trafic du site et servir du contenu personnalisé. En continuant à utiliser ce site, vous acceptez notre utilisation de cookies.",
+    "learnMore": "En savoir plus sur notre politique de cookies",
+    "acceptEssential": "Accepter les essentiels",
+    "acceptAll": "Accepter tous les cookies"
   }
 }

@@ -399,9 +399,9 @@
     "testimonialsTitle": "What Our Students Say",
     "testimonials": [
       {
-        "name": "Amina Tchamba",
+        "name": "Kum Louis",
         "program": "Business Administration, 2023",
-        "text": "The admissions process was smooth and the staff were extremely helpful. I was enrolled within a week of submitting my documents."
+        "text": "The teachers teach in a way that makes learning easy and accessible even for students who do not come from a technical background."
       },
       {
         "name": "Kevin Ngomo",
@@ -559,9 +559,9 @@
     "executiveSub": "A team of dedicated educators and professionals committed to delivering excellence in vocational training.",
     "leaders": [
       {
-        "name": "Dr. Emmanuel Nkwenti",
+        "name": "Mr. Fuh Rene Che",
         "role": "Founder & Director General",
-        "bio": "With over 20 years in education and engineering, Dr. Nkwenti founded NWTVT with a vision to bridge the skills gap in Cameroon's technology and energy sectors. He holds a PhD in Electrical Engineering and is a certified energy auditor.",
+        "bio": "With over 20 years in education and engineering, Mr Rene founded NWTVT with a vision to bridge the skills gap in Cameroon's technology and energy sectors. He holds a PhD in Electrical Engineering and is a certified energy auditor.",
         "email": "director@nwtvt.cm",
         "image":"/Founder.png",
         "linkedin": ""
@@ -612,5 +612,12 @@
     ],
     "bannerTitle": "Leadership Rooted in Purpose",
     "bannerText": "Our leadership team brings together decades of combined experience in education, engineering, and business — all united by a single commitment: your success."
+  },
+  "cookies": {
+    "title": "Cookie Settings",
+    "description": "We use cookies to enhance your experience, analyze site traffic, and serve personalized content. By continuing to use this site, you agree to our use of cookies.",
+    "learnMore": "Learn more about our cookie policy",
+    "acceptEssential": "Accept Essential",
+    "acceptAll": "Accept All"
   }
 }

@@ -465,10 +465,10 @@
     "heroSubtitle": "Les principes et les ambitions qui guident chacune de nos décisions et chaque étudiant que nous formons.",
     "missionTag": "Mission",
     "missionTitle": "Notre Mission",
-    "missionText": "Offrir une formation professionnelle accessible, de haute qualité et axée sur la pratique, qui dote les individus des compétences techniques et professionnelles nécessaires pour s'épanouir dans l'économie camerounaise en évolution et contribuer positivement à leurs communautés.",
+    "missionText": "Notre mission est de doter les étudiants des compétences techniques et des connaissances pratiques du monde réel requises pour exceller dans les domaines de l'informatique, du câblage électrique, des solutions en énergies renouvelables telles que l'énergie solaire et de l'installation CCTV. Nous nous engageons à : dispenser une formation de haute qualité et pertinente pour l'industrie qui allie théorie et pratique; inspirer la créativité, la résolution de problèmes et les idées innovantes chez les jeunes; construire une main-d'œuvre qualifiée capable de relever les défis actuels et futurs de l'ingénierie; fournir une éducation accessible, inclusive et tournée vers l'avenir qui prépare les apprenants à l'emploi significatif et l'entrepreneuriat; autonomiser les étudiants à contribuer à un meilleur aujourd'hui et à un demain plus radieux grâce à des solutions durables et innovantes en ingénierie.",
     "visionTag": "Vision",
     "visionTitle": "Notre Vision",
-    "visionText": "Devenir le principal institut de formation professionnelle en Afrique Centrale — reconnu pour l'excellence de l'enseignement pratique, l'innovation en formation technique, et l'impact transformateur de nos diplômés sur l'industrie et la société.",
+    "visionText": "Devenir un centre de formation professionnelle de premier plan qui autonomise la jeunesse avec des compétences pratiques, une pensée innovante et une expérience pratique dans les domaines modernes de l'ingénierie — les préparant à créer des solutions durables et à progresser confiantes sur le marché compétitif d'aujourd'hui.",
     "valuesLabel": "Valeurs Fondamentales",
     "valuesTitle": "Ce en Quoi Nous Croyons",
     "valuesSub": "Ces six valeurs constituent le socle de tout ce que nous faisons — de notre façon d'enseigner à la manière dont nous soutenons nos étudiants.",
@@ -538,11 +538,11 @@
     "quoteAuthor": "Fondateur & Directeur Général, Institut NWTVT",
     "stats": [
       {
-        "value": "14+",
+        "value": "2",
         "label": "Années d'Expérience"
       },
       {
-        "value": "2 000+",
+        "value": "100",
         "label": "Diplômés Formés"
       },
       {
@@ -550,7 +550,7 @@
         "label": "Programmes Offerts"
       },
       {
-        "value": "60+",
+        "value": "6",
         "label": "Partenaires Industriels"
       }
     ],
@@ -560,23 +560,9 @@
     "leaders": [
       {
         "name": "Mr. Fuh Rene Che",
-        "role": "Fondateur & Directeur Général",
-        "bio": "Avec plus de 20 ans dans l'éducation et l'ingénierie, Mr Rene a fondé le NWTVT avec la vision de combler le déficit de compétences dans les secteurs de la technologie et de l'énergie au Cameroun. Il est titulaire d'un doctorat en génie électrique et est auditeur énergétique certifié.",
-        "email": "directeur@nwtvt.cm",
-        "linkedin": ""
-      },
-      {
-        "name": "Mme Solange Mbarga",
-        "role": "Directrice Académique",
-        "bio": "Mme Mbarga supervise le développement des programmes et la qualité académique de l'ensemble des formations. Éducatrice bilingue avec 15 ans d'expérience, elle veille à ce que notre formation réponde aux normes industrielles nationales et internationales.",
-        "email": "academique@nwtvt.cm",
-        "linkedin": ""
-      },
-      {
-        "name": "M. Patrick Fouda",
-        "role": "Directeur des Admissions & Affaires Étudiantes",
-        "bio": "M. Fouda gère l'ensemble du parcours étudiant, du premier contact jusqu'à l'obtention du diplôme. Il a porté des initiatives d'accessibilité qui ont aidé plus de 500 étudiants à bénéficier d'un soutien financier et d'options de paiement flexibles.",
-        "email": "admissions@nwtvt.cm",
+        "role": "Fondateur & PDG",
+        "bio": "Mr. Fuh Rene Che, Fondateur et PDG de l'Institut de Formation Professionnelle New World Technology à Yaoundé, est un professionnel de l'ingénierie chevronné et une figure majeure de l'éducation technologique pratique au Cameroun. Expert dans les systèmes d'énergie solaire, la technologie de surveillance par caméra et le câblage électrique industriel, il a construit une carrière distinguée fondée sur l'innovation, la maîtrise technique et une passion pour l'autonomisation de la jeunesse. Mr. Che a servi pendant cinq ans à l'Université ICT, où il a contribué en tant qu'Ingénieur Électrique en Chef et Maître de conférences au Département d'Énergie Renouvelable. Pendant son mandat, il a travaillé sous la direction de respectés universitaires tels que le Prof. Jeah Emmanuel Pondi, le Rév. Prof. Anyambod Emmanuel Anya et le Prof. Pierre Fonkoua, renforçant davantage son engagement envers l'excellence académique et l'avancement technique. Avec une vision audacieuse de transformer l'avenir de l'éducation en ingénierie, Mr. Fuh Rene Che dirige avec intention, intégrité et une conviction indéboulonnable que les compétences pratiques et l'innovation sont les moteurs clés des opportunités de demain. Grâce à son leadership, l'institut continue de façonner une nouvelle génération de professionnels compétents, confiants et prêts pour l'industrie, préparés à relever les défis d'un monde en évolution.",
+        "email": "nwtvtinstitute@gmail.com",
         "linkedin": ""
       }
     ],

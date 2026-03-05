@@ -377,7 +377,7 @@ const Admission = () => {
             <div className="map-embed">
               <iframe
                 title="Campus Location"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3980.678!2d11.5021!3d3.8480!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x108bcf80c11e9f21%3A0xa03d9c61cf39cc95!2sMessasi%2C%20Yaound%C3%A9!5e0!3m2!1sen!2scm!4v1700000000000"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3980.6558!2d11.4994884!3d3.8480236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x108bcf3099886c07%3A0xd395d573f13a3108!2sNEW+WORLD+TECHNOLOGY!5e0!3m2!1sen!2scm!4v1741200000000"
                 width="100%" height="100%"
                 style={{ border: 0 }}
                 allowFullScreen="" loading="lazy"

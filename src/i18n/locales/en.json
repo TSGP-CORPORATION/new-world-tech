@@ -465,10 +465,10 @@
     "heroSubtitle": "The principles and ambitions that guide every decision we make and every student we train.",
     "missionTag": "Mission",
     "missionTitle": "Our Mission",
-    "missionText": "To provide accessible, high-quality, and practical vocational training that equips individuals with the technical skills and professional competencies needed to thrive in Cameroon's evolving economy and contribute meaningfully to their communities.",
+    "missionText": "Our mission is to equip students with the technical expertise and real-world practical knowledge required to excel in the fields of computer technology, electrical wiring, renewable energy solutions such as solar power, and CCTV installation. We are committed to: delivering high-quality, industry-relevant training that blends theory with hands-on practice; inspiring creativity, problem-solving, and fresh ideas among youth; building a skilled workforce capable of addressing current and future engineering challenges; providing accessible, inclusive, and future-driven education that prepares learners for meaningful employment and entrepreneurship; empowering students to contribute to a better today and a brighter tomorrow through sustainable and innovative engineering solutions.",
     "visionTag": "Vision",
     "visionTitle": "Our Vision",
-    "visionText": "To be the leading vocational training institution in Central Africa — recognized for excellence in practical education, innovation in technical training, and the transformative impact of our graduates on industry and society.",
+    "visionText": "To become a leading vocational training center that empowers youth with practical skills, innovative thinking, and hands-on experience in modern engineering fields — preparing them to create sustainable solutions and grow confidently in today's competitive job market.",
     "valuesLabel": "Core Values",
     "valuesTitle": "What We Stand For",
     "valuesSub": "These six values are the foundation of everything we do — from how we teach to how we support our students.",
@@ -538,11 +538,11 @@
     "quoteAuthor": "Founder & Director General, NWTVT Institute",
     "stats": [
       {
-        "value": "14+",
+        "value": "2",
         "label": "Years of Experience"
       },
       {
-        "value": "2,000+",
+        "value": "100",
         "label": "Graduates Trained"
       },
       {
@@ -550,7 +550,7 @@
         "label": "Programs Offered"
       },
       {
-        "value": "60+",
+        "value": "6",
         "label": "Industry Partners"
       }
     ],
@@ -560,24 +560,10 @@
     "leaders": [
       {
         "name": "Mr. Fuh Rene Che",
-        "role": "Founder & Director General",
-        "bio": "With over 20 years in education and engineering, Mr Rene founded NWTVT with a vision to bridge the skills gap in Cameroon's technology and energy sectors. He holds a PhD in Electrical Engineering and is a certified energy auditor.",
-        "email": "director@nwtvt.cm",
+        "role": "Founder & CEO",
+        "bio": "Mr. Fuh Rene Che, Founder and CEO of New World Technology Vocational Training Institute in Yaoundé, is a seasoned engineering professional and a leading voice in practical technology education in Cameroon. An expert in solar energy systems, surveillance camera technology, and industrial electrical wiring, he has built a distinguished career rooted in innovation, technical mastery, and a passion for youth empowerment. Mr. Che served for five years at ICT University, where he contributed as Chief Electrical Engineer and Lecturer in the Renewable Energy Department. During his tenure, he worked under the leadership of respected academics such as Prof. Jeah Emmanuel Pondi, Rev. Prof. Anyambod Emmanuel Anya, and Prof. Pierre Fonkoua, further solidifying his commitment to academic excellence and technical advancement. With a bold vision to transform the future of engineering education, Mr. Fuh Rene Che leads with purpose, integrity, and an unwavering belief that practical skills and innovation are the key drivers of tomorrow's opportunities. Through his leadership, the institute continues to shape a new generation of skilled, confident, and industry-ready professionals prepared to meet the demands of an evolving world.",
+        "email": "nwtvtinstitute@gmail.com",
         "image":"/Founder.png",
-        "linkedin": ""
-      },
-      {
-        "name": "Mrs. Solange Mbarga",
-        "role": "Academic Director",
-        "bio": "Mrs. Mbarga oversees curriculum development and academic quality across all programs. A bilingual educator with 15 years of experience, she ensures our training meets national and international industry standards.",
-        "email": "academics@nwtvt.cm",
-        "linkedin": ""
-      },
-      {
-        "name": "Mr. Patrick Fouda",
-        "role": "Director of Admissions & Student Affairs",
-        "bio": "Mr. Fouda manages the full student journey from first contact through graduation. He has championed accessibility initiatives that have helped over 500 students access financial support and flexible payment options.",
-        "email": "admissions@nwtvt.cm",
         "linkedin": ""
       }
     ],

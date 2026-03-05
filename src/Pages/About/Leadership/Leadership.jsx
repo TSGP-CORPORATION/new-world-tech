@@ -65,7 +65,7 @@ const Leadership = () => {
 
   const leaders     = t('leadership.leaders',     { returnObjects: true }) || []
   const statsItems  = t('leadership.stats',       { returnObjects: true }) || []
-  const boardMembers= t('leadership.boardMembers',{ returnObjects: true }) || []
+  // const boardMembers= t('leadership.boardMembers',{ returnObjects: true }) || []
 
   const STAT_ICONS = [<AwardIcon />, <UsersIcon />, <BriefcaseIcon />, <AwardIcon />]
 
@@ -156,7 +156,7 @@ const Leadership = () => {
         </div>
       </section>
 
-      {/* ── BOARD MEMBERS ── */}
+      {/* ── BOARD MEMBERS ──
       <section className="leadership-section leadership-section--alt">
         <div className="leadership-section-inner">
           <div className="leadership-section-header">
@@ -185,7 +185,7 @@ const Leadership = () => {
             ))}
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* ── CLOSING BANNER ── */}
       <div className="leadership-banner">

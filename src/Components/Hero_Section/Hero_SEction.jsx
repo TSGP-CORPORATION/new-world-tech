@@ -12,21 +12,21 @@ const Hero_Section = () => {
     {
       title: t('hero.slides.0.title'),
       subtitle: t('hero.slides.0.subtitle'),
-      image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=1600&h=900&fit=crop",
+      image: "/class_board.jpeg",
       description: t('hero.slides.0.description'),
       programId: 1
     },
     {
       title: t('hero.slides.1.title'),
       subtitle: t('hero.slides.1.subtitle'),
-      image: "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=1600&h=900&fit=crop",
+      image: "/class.jpeg",
       description: t('hero.slides.1.description'),
       programId: 2
     },
     {
       title: t('hero.slides.2.title'),
       subtitle: t('hero.slides.2.subtitle'),
-      image: "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=1600&h=900&fit=crop",
+      image: "/cap_class.jpeg",
       description: t('hero.slides.2.description'),
       programId: 6
     },

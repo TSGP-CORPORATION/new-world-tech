@@ -21,7 +21,7 @@ const baseProgramsData = [
     descKey: "programs.electricityDesc",
     category: "Energy",
     color: "#1a5f3a",
-    image: "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=500&h=400&fit=crop",
+    image: "/electric.jpeg",
     durationKey: "programs.duration",
     entryConditionsKey: "programs.entryConditions",
     specialties: [

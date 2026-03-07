@@ -96,7 +96,7 @@ const Vision_Mission = () => {
       {/* ── HERO ── */}
       <div className="mv-hero">
         <img
-          src="https://images.unsplash.com/photo-1497366216548-37526070297c?w=1600&h=900&fit=crop"
+          src="/class.jpeg"
           alt="Mission & Vision"
           className="mv-hero-image"
         />

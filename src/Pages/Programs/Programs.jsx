@@ -2,6 +2,7 @@ import React from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import { getProgramsData } from '../../data/programsData'
+import progImg from '/programs.jpeg'
 import './Programs.css'
 
 const Programs = () => {
@@ -14,7 +15,7 @@ const Programs = () => {
     <div className="programs-page">
       <div
         className="programs-hero"
-        style={{ backgroundImage: `url(https://images.unsplash.com/photo-1509391366360-2e959784a276?w=1600&h=900&fit=crop)` }}
+        style={{ backgroundImage: `url(${progImg})` }}
       >
         <div className="hero-overlay">
           <div className="hero-content">

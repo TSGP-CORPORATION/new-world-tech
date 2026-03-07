@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import { useTranslation } from 'react-i18next'
+import admissionImg from '/admissions.jpeg'
 import './Admissions.css'
 
 /* ── SVG Icon Components ── */
@@ -123,7 +124,7 @@ const Admission = () => {
       {/* ── HERO ── */}
       <div
         className="admission-hero"
-        style={{ backgroundImage: `url(https://images.unsplash.com/photo-1509391366360-2e959784a276?w=1600&h=900&fit=crop)` }}
+        style={{ backgroundImage: `url(${admissionImg})` }}
       >
         <div className="admission-hero-overlay" />
         <div className="admission-hero-content">

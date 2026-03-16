@@ -51,11 +51,11 @@ const Footer = () => {
         {/* Quick Links */}
         <div className="footer-column">
           <h3>{t('footer.quickLinks')}</h3>
-          <a href="#about">{t('footer.aboutUsLink')}</a>
-          <a href="#academics">{t('footer.academicPrograms')}</a>
-          <a href="#admissions">{t('footer.admissionsLink')}</a>
-          <a href="#resources">{t('footer.studentResources')}</a>
-          <a href="#contact">{t('footer.contactUs')}</a>
+          {/* <a href="#about">{t('footer.aboutUsLink')}</a> */}
+          <a href="/programs">{t('footer.academicPrograms')}</a>
+          <a href="/admissions">{t('footer.admissionsLink')}</a>
+          {/* <a href="#resources">{t('footer.studentResources')}</a>
+          <a href="#contact">{t('footer.contactUs')}</a> */}
         </div>
 
         

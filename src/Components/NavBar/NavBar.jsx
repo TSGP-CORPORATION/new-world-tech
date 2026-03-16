@@ -19,6 +19,13 @@ const NavBar = () => {
   const overlayRef = useRef(null)
 
   useEffect(() => {
+  const header = document.querySelector('.header')
+  if (header) {
+    header.style.display = menuOpen ? 'none' : ''
+  }
+}, [menuOpen])
+
+  useEffect(() => {
     const handleScroll = () => {
       const headerElement = document.querySelector('.header')
       if (headerElement) {

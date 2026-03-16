@@ -40,7 +40,7 @@ main {
 /* Tablet/Mobile layout - navbar at bottom, stays while scrolling */
 @media (max-width: 768px) {
   body {
-    padding-bottom: 200px;
+    padding-bottom: 0;
   }
 
   .App {
